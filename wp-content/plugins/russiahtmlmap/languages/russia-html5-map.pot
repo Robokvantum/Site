@@ -1,0 +1,1574 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Interactive Map of Russia for WP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-13 05:21+0000\n"
+"POT-Revision-Date: Thu Jan 28 2016 13:08:19 GMT+0300 (RTZ 2 (зима))\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: maptools.php:77
+msgid "File upload error!"
+msgstr ""
+
+#: maptools.php:80
+#, php-format
+msgid ""
+"JSON import should be done on the \"<a href=\"%s\">Maps dashboard</a>\" tab"
+msgstr ""
+
+#: maptools.php:83
+msgid "Wrong file type!"
+msgstr ""
+
+#: maptools.php:89
+msgid "Wrong field delimiter!"
+msgstr ""
+
+#: maptools.php:95
+msgid "Wrong text delimiter!"
+msgstr ""
+
+#: maptools.php:107
+msgid "Wrong csv file!"
+msgstr ""
+
+#: maptools.php:111
+msgid "Wrong csv header!"
+msgstr ""
+
+#: maptools.php:165
+msgid "Failed to encode new data! Probably non UTF data."
+msgstr ""
+
+#: maptools.php:168
+msgid "Some data left unimported! Looks like wrong map."
+msgstr ""
+
+#: maptools.php:235 mapslist.php:11
+msgid "Configuration successfully imported!"
+msgstr ""
+
+#: maptools.php:243
+msgid "Custom js successfully updated!"
+msgstr ""
+
+#: maptools.php:246 mapslist.php:155 russiahtmlmap.php:37 russiahtmlmap.php:37
+#: russiahtmlmap.php:54
+msgid "Tools"
+msgstr ""
+
+#: maptools.php:283
+msgid "Batch export / import from CSV"
+msgstr ""
+
+#: maptools.php:284
+msgid "Export to CSV file"
+msgstr ""
+
+#: maptools.php:285
+msgid "Import from CSV file"
+msgstr ""
+
+#: maptools.php:287
+msgid "Advanced CSV settings"
+msgstr ""
+
+#: maptools.php:289
+msgid "Field delimiter:"
+msgstr ""
+
+#: maptools.php:293
+msgid "{SPACE}"
+msgstr ""
+
+#: maptools.php:294
+msgid "{TAB}"
+msgstr ""
+
+#: maptools.php:296
+msgid "Text delimiter:"
+msgstr ""
+
+#: maptools.php:303
+#, php-format
+msgid ""
+"Note that this tool exports/imports area data only. If you need to make a "
+"full backup of all settings of the map including general settings, use the "
+"backup option provided on <a href=\"%s\">\"Maps\"</a> page."
+msgstr ""
+
+#: maptools.php:304
+msgid ""
+"* The term \"area\" means one of the following: continent, country, state, "
+"province, county or district, depending on the particular plugin."
+msgstr ""
+
+#: maptools.php:310
+msgid "Custom JavaScript"
+msgstr ""
+
+#: maptools.php:311
+msgid "Here you can add any custom javascript to extend plugin's functionality"
+msgstr ""
+
+#: maptools.php:312
+msgid "Detailed description"
+msgstr ""
+
+#: maptools.php:314
+msgid "Any code placed here will be executed after the map is drawn."
+msgstr ""
+
+#: maptools.php:315
+msgid ""
+"Here are the list of plugin-related variables, that will be available for "
+"you:"
+msgstr ""
+
+#: maptools.php:316
+msgid ""
+"Map instance. All available features are listed <a href=\"https://docs."
+"html5maps.com/html5-locator-maps/api\">here</a>."
+msgstr ""
+
+#: maptools.php:317
+msgid "HTML id of the container that contains the map."
+msgstr ""
+
+#: maptools.php:318
+msgid "Id of the map, specified in shortcode."
+msgstr ""
+
+#: maptools.php:320
+msgid "You can find out any id of the area or point by viewing the CSV export."
+msgstr ""
+
+#: maptools.php:331 editstatesconfig.php:596 editmainconfig.php:502
+#: editpointsconfig.php:1053 editgroupsconfig.php:503
+msgid "Save Changes"
+msgstr ""
+
+#: mapslist.php:73
+msgid "Delete map"
+msgstr ""
+
+#: mapslist.php:74
+#, php-format
+msgid "You are going to delete following map: <b>%s</b>."
+msgid_plural "You are going to delete following maps: <b>%s</b>."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mapslist.php:75
+msgid ""
+"<b style=\"color: red\">Attention!</b> All settings for the map will be "
+"deleted permanently!"
+msgstr ""
+
+#: mapslist.php:76
+msgid "Are you sure?"
+msgstr ""
+
+#: mapslist.php:78
+msgid "No, return back"
+msgstr ""
+
+#: mapslist.php:78
+msgid "Yes, delete"
+msgstr ""
+
+#: mapslist.php:112
+msgid "Name"
+msgstr ""
+
+#: mapslist.php:113
+msgid "ShortCode"
+msgstr ""
+
+#: mapslist.php:114
+msgid "Edit"
+msgstr ""
+
+#: mapslist.php:123 mapslist.php:158 editpointsconfig.php:649
+#: editgroupsconfig.php:504
+msgid "Delete"
+msgstr ""
+
+#: mapslist.php:151 russiahtmlmap.php:50
+msgid "General settings"
+msgstr ""
+
+#: mapslist.php:152 russiahtmlmap.php:34 russiahtmlmap.php:34
+#: russiahtmlmap.php:51
+msgid "Detailed settings"
+msgstr ""
+
+#: mapslist.php:153 russiahtmlmap.php:35 russiahtmlmap.php:35
+#: russiahtmlmap.php:52
+msgid "Groups settings"
+msgstr ""
+
+#: mapslist.php:154 russiahtmlmap.php:36 russiahtmlmap.php:36
+#: russiahtmlmap.php:53
+msgid "Points settings"
+msgstr ""
+
+#: mapslist.php:156 russiahtmlmap.php:55
+msgid "Preview"
+msgstr ""
+
+#: mapslist.php:234 russiahtmlmap.php:40 russiahtmlmap.php:78
+msgid "Maps dashboard"
+msgstr ""
+
+#: mapslist.php:241 mapslist.php:244
+msgid "Add new map"
+msgstr ""
+
+#: mapslist.php:242
+msgid "New map name:"
+msgstr ""
+
+#: mapslist.php:243
+msgid "New map"
+msgstr ""
+
+#: mapslist.php:258
+msgid "Export/import"
+msgstr ""
+
+#: mapslist.php:259
+msgid ""
+"To export please select a checkbox of one or more maps, and press Export "
+"button"
+msgstr ""
+
+#: mapslist.php:260
+msgid "Export"
+msgstr ""
+
+#: mapslist.php:261
+msgid "Import"
+msgstr ""
+
+#: mapslist.php:269
+msgid "Access rights to plugin settings"
+msgstr ""
+
+#: mapslist.php:270
+msgid ""
+"This option enables access to plug-in settings for users with the \"Editor\" "
+"role."
+msgstr ""
+
+#: mapslist.php:277
+msgid "Editor"
+msgstr ""
+
+#: mapslist.php:282
+msgid "Save"
+msgstr ""
+
+#: mapslist.php:294
+msgid ""
+"Remove the map?\\nAttention! All settings for the map will be deleted "
+"permanently!"
+msgstr ""
+
+#: mapslist.php:309
+msgid "Select maps you want to export first!"
+msgstr ""
+
+#: editstatesconfig.php:164
+msgid "Configuration of Map Areas"
+msgstr ""
+
+#: editstatesconfig.php:428
+msgid ""
+"This tab allows you to add the area-specific information and adjust colors "
+"of individual area on the map."
+msgstr ""
+
+#: editstatesconfig.php:429
+msgid ""
+"* The term \"area\" means one of the following: region, state, country, "
+"province, county or district, depending on the particular plugin."
+msgstr ""
+
+#: editstatesconfig.php:432 russiahtmlmap.php:457
+msgid "Select an area"
+msgstr ""
+
+#: editstatesconfig.php:443
+msgid "Hide map"
+msgstr ""
+
+#: editstatesconfig.php:443
+msgid "Choose on map"
+msgstr ""
+
+#: editstatesconfig.php:445
+msgid "Toggle selections"
+msgstr ""
+
+#: editstatesconfig.php:448
+msgid "Back to one-by-one editing"
+msgstr ""
+
+#: editstatesconfig.php:450
+msgid "Bulk Edit"
+msgstr ""
+
+#: editstatesconfig.php:519
+msgid "Map area"
+msgstr ""
+
+#: editstatesconfig.php:522 editpointsconfig.php:331
+msgid "Name:"
+msgstr ""
+
+#: editstatesconfig.php:523
+msgid "Name of Area"
+msgstr ""
+
+#: editstatesconfig.php:525
+msgid "do not show popup name"
+msgstr ""
+
+#: editstatesconfig.php:529
+msgid "Shortname:"
+msgstr ""
+
+#: editstatesconfig.php:530
+msgid "Shortname of Area. Use \\n to break the lines."
+msgstr ""
+
+#: editstatesconfig.php:533 bulkconfig.php:49
+msgid "What to do when the area is clicked:"
+msgstr ""
+
+#: editstatesconfig.php:534 editgroupsconfig.php:322 bulkconfig.php:50
+msgid "Nothing"
+msgstr ""
+
+#: editstatesconfig.php:534 editgroupsconfig.php:322 bulkconfig.php:50
+msgid "Do not react on mouse clicks"
+msgstr ""
+
+#: editstatesconfig.php:535 editgroupsconfig.php:323 bulkconfig.php:51
+msgid "Open a URL"
+msgstr ""
+
+#: editstatesconfig.php:535 bulkconfig.php:51
+msgid "A click on this area opens a specified URL"
+msgstr ""
+
+#: editstatesconfig.php:536 editgroupsconfig.php:324 bulkconfig.php:52
+msgid "Show more info"
+msgstr ""
+
+#: editstatesconfig.php:536 editgroupsconfig.php:324 bulkconfig.php:52
+msgid ""
+"Displays a side-panel with additional information (contacts, addresses etc.)"
+msgstr ""
+
+#: editstatesconfig.php:537 editpointsconfig.php:422 editgroupsconfig.php:325
+#: bulkconfig.php:53
+msgid "Show lightbox popup"
+msgstr ""
+
+#: editstatesconfig.php:537 bulkconfig.php:53
+msgid ""
+"Show lightbox popup, that you are can create with the plugin \"Popup "
+"Builder\". To activate this option, install the \"Popup Builder\" plugin, "
+"then switch to it and create a new popup there. Then, you should open this "
+"tab again and specify the name of the created popup here."
+msgstr ""
+
+#: editstatesconfig.php:539 editpointsconfig.php:426 editgroupsconfig.php:327
+#: bulkconfig.php:57
+msgid "URL:"
+msgstr ""
+
+#: editstatesconfig.php:540 editgroupsconfig.php:328 bulkconfig.php:58
+msgid "The landing page URL"
+msgstr ""
+
+#: editstatesconfig.php:541 editpointsconfig.php:429 editgroupsconfig.php:329
+#: bulkconfig.php:61
+msgid "Open url in a new window"
+msgstr ""
+
+#: editstatesconfig.php:545 editpointsconfig.php:433 editgroupsconfig.php:332
+#: bulkconfig.php:66
+msgid "Description:"
+msgstr ""
+
+#: editstatesconfig.php:545 editpointsconfig.php:433 editgroupsconfig.php:332
+#: bulkconfig.php:66
+msgid ""
+"The description is displayed to the right of the map and contains contacts "
+"or some other additional information"
+msgstr ""
+
+#: editstatesconfig.php:551 editpointsconfig.php:438 editgroupsconfig.php:338
+#: bulkconfig.php:72
+msgid "Select lightbox popup:"
+msgstr ""
+
+#: editstatesconfig.php:559 editgroupsconfig.php:308 bulkconfig.php:88
+msgid "Info for tooltip balloon:"
+msgstr ""
+
+#: editstatesconfig.php:559 editgroupsconfig.php:308 bulkconfig.php:88
+msgid "Info for tooltip balloon"
+msgstr ""
+
+#: editstatesconfig.php:562 bulkconfig.php:103
+msgid "Area color:"
+msgstr ""
+
+#: editstatesconfig.php:563 bulkconfig.php:104
+msgid "The color of an area."
+msgstr ""
+
+#: editstatesconfig.php:564 editstatesconfig.php:568
+msgid "Apply to all areas"
+msgstr ""
+
+#: editstatesconfig.php:566 bulkconfig.php:109
+msgid "Area hover color:"
+msgstr ""
+
+#: editstatesconfig.php:567 bulkconfig.php:110
+msgid "The color of an area when the mouse cursor is over it."
+msgstr ""
+
+#: editstatesconfig.php:571 editpointsconfig.php:362 editgroupsconfig.php:311
+#: bulkconfig.php:124
+msgid "Image URL:"
+msgstr ""
+
+#: editstatesconfig.php:573 editpointsconfig.php:364 editgroupsconfig.php:313
+#: bulkconfig.php:126
+msgid "clear"
+msgstr ""
+
+#: editstatesconfig.php:574 editpointsconfig.php:365 editgroupsconfig.php:314
+#: bulkconfig.php:127
+msgid "The path to file of the image to display in a popup"
+msgstr ""
+
+#: editstatesconfig.php:576 editpointsconfig.php:446 bulkconfig.php:139
+msgid "CSS class:"
+msgstr ""
+
+#: editstatesconfig.php:578 editpointsconfig.php:447 bulkconfig.php:141
+msgid "You can specify several CSS classes separated by space"
+msgstr ""
+
+#: editstatesconfig.php:579
+msgid "Use this ID when interacting with the map via API"
+msgstr ""
+
+#: editstatesconfig.php:582 bulkconfig.php:34
+msgid "Hide area:"
+msgstr ""
+
+#: editstatesconfig.php:583 bulkconfig.php:31 bulkconfig.php:37
+msgid "show"
+msgstr ""
+
+#: editstatesconfig.php:584 bulkconfig.php:30 bulkconfig.php:36
+msgid "hide"
+msgstr ""
+
+#: editmainconfig.php:162
+msgid "HTML5 Map Config"
+msgstr ""
+
+#: editmainconfig.php:227
+msgid ""
+"Specify general settings of the map. To choose a color, click a color box, "
+"select the desired color in the color selection dialog and click anywhere "
+"outside the dialog to apply the chosen color."
+msgstr ""
+
+#: editmainconfig.php:229
+msgid "Map Settings"
+msgstr ""
+
+#: editmainconfig.php:231
+msgid "Map name:"
+msgstr ""
+
+#: editmainconfig.php:232
+msgid "Name of the map"
+msgstr ""
+
+#: editmainconfig.php:235
+msgid "Layout type:"
+msgstr ""
+
+#: editmainconfig.php:236
+msgid "Not Responsive:"
+msgstr ""
+
+#: editmainconfig.php:237
+msgid "Responsive:"
+msgstr ""
+
+#: editmainconfig.php:238
+msgid "Type of the layout"
+msgstr ""
+
+#: editmainconfig.php:241
+msgid "Map width:"
+msgstr ""
+
+#: editmainconfig.php:242
+msgid "The width of the map"
+msgstr ""
+
+#: editmainconfig.php:245
+msgid "Map height:"
+msgstr ""
+
+#: editmainconfig.php:246
+msgid "The height of the map"
+msgstr ""
+
+#: editmainconfig.php:249
+msgid "Max width:"
+msgstr ""
+
+#: editmainconfig.php:250
+msgid "The max width of the map"
+msgstr ""
+
+#: editmainconfig.php:254
+msgid "List of names:"
+msgstr ""
+
+#: editmainconfig.php:257
+msgid "Show list of names:"
+msgstr ""
+
+#: editmainconfig.php:258
+msgid "Show list of names"
+msgstr ""
+
+#: editmainconfig.php:260
+msgid "Show only active areas:"
+msgstr ""
+
+#: editmainconfig.php:261
+msgid "Show areas, that contains links or any additional information"
+msgstr ""
+
+#: editmainconfig.php:263
+msgid "Show name/tooltip on hover:"
+msgstr ""
+
+#: editmainconfig.php:264
+msgid "Show name/tooltip on hover"
+msgstr ""
+
+#: editmainconfig.php:266
+msgid "Dropdown list:"
+msgstr ""
+
+#: editmainconfig.php:267
+msgid "do not show"
+msgstr ""
+
+#: editmainconfig.php:268
+msgid "only on mobile devices"
+msgstr ""
+
+#: editmainconfig.php:269
+msgid "on mobile and desktop"
+msgstr ""
+
+#: editmainconfig.php:271
+msgid "Show dropdown list"
+msgstr ""
+
+#: editmainconfig.php:275
+msgid "List width (%):"
+msgstr ""
+
+#: editmainconfig.php:276
+msgid "The width of the list"
+msgstr ""
+
+#: editmainconfig.php:279
+msgid "List font size:"
+msgstr ""
+
+#: editmainconfig.php:280
+msgid "Font size of the list"
+msgstr ""
+
+#: editmainconfig.php:286
+msgid "Zooming capabilities:"
+msgstr ""
+
+#: editmainconfig.php:288
+msgid "Allow zoom:"
+msgstr ""
+
+#: editmainconfig.php:289
+msgid "Allow map zooming"
+msgstr ""
+
+#: editmainconfig.php:290
+msgid "Only on mobile:"
+msgstr ""
+
+#: editmainconfig.php:291
+msgid "Zoom only for mobile devices"
+msgstr ""
+
+#: editmainconfig.php:292
+msgid "Show zoom controls:"
+msgstr ""
+
+#: editmainconfig.php:293
+msgid "Whether to show or not +/- buttons"
+msgstr ""
+
+#: editmainconfig.php:294
+msgid "Ignore mouse scroll:"
+msgstr ""
+
+#: editmainconfig.php:295
+msgid "Do not zoom in/out by mouse scrolling"
+msgstr ""
+
+#: editmainconfig.php:298
+msgid "Max zoom:"
+msgstr ""
+
+#: editmainconfig.php:299
+msgid "Maximum zooming level"
+msgstr ""
+
+#: editmainconfig.php:300
+msgid "Zoom step:"
+msgstr ""
+
+#: editmainconfig.php:301
+msgid "Zoom step"
+msgstr ""
+
+#: editmainconfig.php:304
+msgid "Default zoom:"
+msgstr ""
+
+#: editmainconfig.php:308
+msgid "Enabled"
+msgstr ""
+
+#: editmainconfig.php:308
+msgid "Disabled"
+msgstr ""
+
+#: editmainconfig.php:309
+msgid "enable"
+msgstr ""
+
+#: editmainconfig.php:310
+msgid "edit"
+msgstr ""
+
+#: editmainconfig.php:311
+msgid "disable"
+msgstr ""
+
+#: editmainconfig.php:312
+msgid ""
+"This option allows you to setup initial map zoom. Either zoom is enabled or "
+"not."
+msgstr ""
+
+#: editmainconfig.php:318
+msgid "apply"
+msgstr ""
+
+#: editmainconfig.php:319
+msgid "cancel"
+msgstr ""
+
+#: editmainconfig.php:328
+msgid "Hide shortnames:"
+msgstr ""
+
+#: editmainconfig.php:330
+msgid "Do not show shortnames on the map"
+msgstr ""
+
+#: editmainconfig.php:333
+msgid "Enable shadows:"
+msgstr ""
+
+#: editmainconfig.php:335
+msgid "Enable / disable shadows"
+msgstr ""
+
+#: editmainconfig.php:338
+msgid "Shadow width:"
+msgstr ""
+
+#: editmainconfig.php:340
+msgid "Shadow width"
+msgstr ""
+
+#: editmainconfig.php:344
+msgid "Pin tooltip on click:"
+msgstr ""
+
+#: editmainconfig.php:346
+msgid "Pin tooltip on click"
+msgstr ""
+
+#: editmainconfig.php:349
+msgid "Center tooltip on mobile devices:"
+msgstr ""
+
+#: editmainconfig.php:351
+msgid "Center tooltip on mobile devices"
+msgstr ""
+
+#: editmainconfig.php:354
+msgid "Centered tooltip width:"
+msgstr ""
+
+#: editmainconfig.php:356
+msgid "Centered tooltip width (only on mobile devices)"
+msgstr ""
+
+#: editmainconfig.php:358
+msgid "Centered tooltip vertical position:"
+msgstr ""
+
+#: editmainconfig.php:365
+msgid "Tooltip vertical position (only on mobile devices)"
+msgstr ""
+
+#: editmainconfig.php:372
+msgid "Borders color:"
+msgstr ""
+
+#: editmainconfig.php:373
+msgid "The color of borders on the map"
+msgstr ""
+
+#: editmainconfig.php:376
+msgid "Borders width:"
+msgstr ""
+
+#: editmainconfig.php:377
+msgid "The width of borders on the map"
+msgstr ""
+
+#: editmainconfig.php:383
+msgid "Borders hover color:"
+msgstr ""
+
+#: editmainconfig.php:384
+msgid "The color of borders on the map while mouse is over this region"
+msgstr ""
+
+#: editmainconfig.php:392
+msgid "Content info"
+msgstr ""
+
+#: editmainconfig.php:393
+msgid "Additional Info area:"
+msgstr ""
+
+#: editmainconfig.php:394
+msgid "At right:"
+msgstr ""
+
+#: editmainconfig.php:395
+msgid "At bottom:"
+msgstr ""
+
+#: editmainconfig.php:396
+msgid "Where to place an additional information about state"
+msgstr ""
+
+#: editmainconfig.php:399
+msgid "Automatically scroll to info area on click"
+msgstr ""
+
+#: editmainconfig.php:402
+msgid "Offset from top:"
+msgstr ""
+
+#: editmainconfig.php:403
+msgid "Offset in px to prevent fixed headers move on info area"
+msgstr ""
+
+#: editmainconfig.php:407
+msgid "Default content:"
+msgstr ""
+
+#: editmainconfig.php:407
+msgid "Default content that will be shown in area for additional information"
+msgstr ""
+
+#: editmainconfig.php:414
+msgid "Font sizes and colors"
+msgstr ""
+
+#: editmainconfig.php:418
+msgid "Name displayed on the map"
+msgstr ""
+
+#: editmainconfig.php:421 editmainconfig.php:456 editmainconfig.php:469
+msgid "Font family:"
+msgstr ""
+
+#: editmainconfig.php:422
+msgid "Font family of names on the map"
+msgstr ""
+
+#: editmainconfig.php:424 editmainconfig.php:459 editmainconfig.php:472
+#: editpointsconfig.php:350
+msgid "Font size:"
+msgstr ""
+
+#: editmainconfig.php:425
+msgid "Font size of names on the map"
+msgstr ""
+
+#: editmainconfig.php:427 editmainconfig.php:462 editmainconfig.php:475
+msgid "Color:"
+msgstr ""
+
+#: editmainconfig.php:428 editmainconfig.php:438
+msgid "The color of names on the map"
+msgstr ""
+
+#: editmainconfig.php:430
+msgid "Color over:"
+msgstr ""
+
+#: editmainconfig.php:431 editmainconfig.php:441
+msgid "The color of names on the map while mouse is over"
+msgstr ""
+
+#: editmainconfig.php:433 editpointsconfig.php:267
+msgid "Name stroke:"
+msgstr ""
+
+#: editmainconfig.php:434
+msgid "The stroke on regions names"
+msgstr ""
+
+#: editmainconfig.php:437
+msgid "Stroke color:"
+msgstr ""
+
+#: editmainconfig.php:440
+msgid "Stroke color over:"
+msgstr ""
+
+#: editmainconfig.php:443 editpointsconfig.php:276
+msgid "Stroke width:"
+msgstr ""
+
+#: editmainconfig.php:444
+msgid "Stroke width for names on the map"
+msgstr ""
+
+#: editmainconfig.php:446 editpointsconfig.php:281
+msgid "Stroke opacity:"
+msgstr ""
+
+#: editmainconfig.php:447
+msgid "Stroke opacity for names on the map"
+msgstr ""
+
+#: editmainconfig.php:453
+msgid "Tooltip name"
+msgstr ""
+
+#: editmainconfig.php:457
+msgid "Font family of names on the tooltip"
+msgstr ""
+
+#: editmainconfig.php:460
+msgid "Font size of names on the tooltip"
+msgstr ""
+
+#: editmainconfig.php:463
+msgid "The color of names on the tooltip"
+msgstr ""
+
+#: editmainconfig.php:466
+msgid "Tooltip comment"
+msgstr ""
+
+#: editmainconfig.php:470
+msgid "Font family of content in the tooltip"
+msgstr ""
+
+#: editmainconfig.php:473
+msgid "Font size of content in the tooltip"
+msgstr ""
+
+#: editmainconfig.php:476
+msgid "The color of content in the tooltip"
+msgstr ""
+
+#: editmainconfig.php:485
+msgid "Performance settings"
+msgstr ""
+
+#: editmainconfig.php:487
+msgid "Enable settings caching:"
+msgstr ""
+
+#: editmainconfig.php:488
+msgid "This will increase map loading speed"
+msgstr ""
+
+#: editmainconfig.php:490
+msgid ""
+"Settings cache cannot be enabled because plugins directory is not writable"
+msgstr ""
+
+#: editmainconfig.php:492
+msgid "Minimize code output:"
+msgstr ""
+
+#: editmainconfig.php:493
+msgid "With this option enabled code output will be in one line"
+msgstr ""
+
+#: editmainconfig.php:495
+msgid "Delay javascript output:"
+msgstr ""
+
+#: editmainconfig.php:496
+msgid "With this option enabled will be outputed in the end of the page"
+msgstr ""
+
+#: editpointsconfig.php:102
+msgid "Configuration of Map points"
+msgstr ""
+
+#: editpointsconfig.php:199
+msgid ""
+"Double-click to add a point; click and hold to drag; double-click a point to "
+"edit it"
+msgstr ""
+
+#: editpointsconfig.php:202
+msgid "Points Configuration"
+msgstr ""
+
+#: editpointsconfig.php:207
+#, php-format
+msgid "Points defaults [%s]"
+msgstr ""
+
+#: editpointsconfig.php:212
+msgid "Option"
+msgstr ""
+
+#: editpointsconfig.php:213
+msgid "Color"
+msgstr ""
+
+#: editpointsconfig.php:214
+msgid "Hover color"
+msgstr ""
+
+#: editpointsconfig.php:219 editpointsconfig.php:371
+msgid "Point color:"
+msgstr ""
+
+#: editpointsconfig.php:221 editpointsconfig.php:372 editpointsconfig.php:388
+#: editpointsconfig.php:392 editpointsconfig.php:396
+msgid "The color of a point."
+msgstr ""
+
+#: editpointsconfig.php:224 editpointsconfig.php:378 editpointsconfig.php:403
+#: editpointsconfig.php:407 editpointsconfig.php:411
+msgid "The color of a point when the mouse cursor is over it."
+msgstr ""
+
+#: editpointsconfig.php:228 editpointsconfig.php:387
+msgid "Border color:"
+msgstr ""
+
+#: editpointsconfig.php:230
+msgid "The color of a point border."
+msgstr ""
+
+#: editpointsconfig.php:232
+msgid "The color of a point border when the mouse cursor is over it."
+msgstr ""
+
+#: editpointsconfig.php:235
+msgid "Shortname color:"
+msgstr ""
+
+#: editpointsconfig.php:237
+msgid "The color of a point's shortname."
+msgstr ""
+
+#: editpointsconfig.php:239
+msgid "The color of a point's shortname when the mouse cursor is over it."
+msgstr ""
+
+#: editpointsconfig.php:242
+msgid "Shortname stroke color:"
+msgstr ""
+
+#: editpointsconfig.php:244
+msgid "The color of a point's shortname stroke."
+msgstr ""
+
+#: editpointsconfig.php:246
+msgid ""
+"The color of a point's shortname stroke when the mouse cursor is over it."
+msgstr ""
+
+#: editpointsconfig.php:252 editpointsconfig.php:326
+msgid "Radius:"
+msgstr ""
+
+#: editpointsconfig.php:254 editpointsconfig.php:273
+msgid "The default point radius."
+msgstr ""
+
+#: editpointsconfig.php:257
+msgid "Name font family:"
+msgstr ""
+
+#: editpointsconfig.php:259
+msgid "The default font family for point's shortname."
+msgstr ""
+
+#: editpointsconfig.php:262
+msgid "Name font size:"
+msgstr ""
+
+#: editpointsconfig.php:264
+msgid "The default font size for point's shortname."
+msgstr ""
+
+#: editpointsconfig.php:269
+msgid "Use general setting"
+msgstr ""
+
+#: editpointsconfig.php:270
+msgid "Yes"
+msgstr ""
+
+#: editpointsconfig.php:271
+msgid "No"
+msgstr ""
+
+#: editpointsconfig.php:278
+msgid ""
+"The default stroke width for point's shortname. General setting will be used "
+"if empty."
+msgstr ""
+
+#: editpointsconfig.php:283
+msgid ""
+"The default stroke opacity for point's shortname. General setting will be "
+"used if empty."
+msgstr ""
+
+#: editpointsconfig.php:290 editgroupsconfig.php:283
+msgid "Enable zoom:"
+msgstr ""
+
+#: editpointsconfig.php:293
+msgid "Ignore editor saved state:"
+msgstr ""
+
+#: editpointsconfig.php:309
+msgid "Point type:"
+msgstr ""
+
+#: editpointsconfig.php:314
+msgid "Point type"
+msgstr ""
+
+#: editpointsconfig.php:318
+msgid "X position:"
+msgstr ""
+
+#: editpointsconfig.php:319
+msgid "X position of the point"
+msgstr ""
+
+#: editpointsconfig.php:322
+msgid "Y position:"
+msgstr ""
+
+#: editpointsconfig.php:323
+msgid "Y position of the point"
+msgstr ""
+
+#: editpointsconfig.php:327
+msgid "Radius of the point"
+msgstr ""
+
+#: editpointsconfig.php:332
+msgid "This name will be show when mouse will be over this point"
+msgstr ""
+
+#: editpointsconfig.php:333
+msgid "Short name:"
+msgstr ""
+
+#: editpointsconfig.php:334
+msgid ""
+"This name will be show near point on the map. Use \\n to break the lines."
+msgstr ""
+
+#: editpointsconfig.php:337
+msgid "Text position:"
+msgstr ""
+
+#: editpointsconfig.php:338
+msgid "Left Top"
+msgstr ""
+
+#: editpointsconfig.php:339
+msgid "Left Middle"
+msgstr ""
+
+#: editpointsconfig.php:340
+msgid "Left Bottom"
+msgstr ""
+
+#: editpointsconfig.php:341
+msgid "Center Top"
+msgstr ""
+
+#: editpointsconfig.php:342
+msgid "Center Middle"
+msgstr ""
+
+#: editpointsconfig.php:343
+msgid "Center Bottom"
+msgstr ""
+
+#: editpointsconfig.php:344
+msgid "Right Top"
+msgstr ""
+
+#: editpointsconfig.php:345
+msgid "Right Middle"
+msgstr ""
+
+#: editpointsconfig.php:346
+msgid "Right Bottom"
+msgstr ""
+
+#: editpointsconfig.php:348
+msgid "Shortname position relative to the point"
+msgstr ""
+
+#: editpointsconfig.php:351
+msgid "Font size of the shortname displayed near the point."
+msgstr ""
+
+#: editpointsconfig.php:352 editpointsconfig.php:373 editpointsconfig.php:379
+#: editpointsconfig.php:389 editpointsconfig.php:393 editpointsconfig.php:397
+#: editpointsconfig.php:404 editpointsconfig.php:408 editpointsconfig.php:412
+msgid "Use default"
+msgstr ""
+
+#: editpointsconfig.php:358
+#, php-format
+msgid "Tooltip [%s]"
+msgstr ""
+
+#: editpointsconfig.php:377
+msgid "Point hover color:"
+msgstr ""
+
+#: editpointsconfig.php:384
+#, php-format
+msgid "More color settings [%s]"
+msgstr ""
+
+#: editpointsconfig.php:391
+msgid "Name color:"
+msgstr ""
+
+#: editpointsconfig.php:395
+msgid "Name stroke color:"
+msgstr ""
+
+#: editpointsconfig.php:402
+msgid "Border hover color:"
+msgstr ""
+
+#: editpointsconfig.php:406
+msgid "Name hover color:"
+msgstr ""
+
+#: editpointsconfig.php:410
+msgid "Name stroke hover color:"
+msgstr ""
+
+#: editpointsconfig.php:418
+msgid "On click action:"
+msgstr ""
+
+#: editpointsconfig.php:419
+msgid "nothing"
+msgstr ""
+
+#: editpointsconfig.php:420
+msgid "open link"
+msgstr ""
+
+#: editpointsconfig.php:421
+msgid "show additional information"
+msgstr ""
+
+#: editpointsconfig.php:427
+msgid "Open url on click (if specified)"
+msgstr ""
+
+#: editpointsconfig.php:530
+msgid "Add"
+msgstr ""
+
+#: editpointsconfig.php:587
+msgid "Apply"
+msgstr ""
+
+#: editpointsconfig.php:655
+msgid "Are you sure you want to delete point"
+msgstr ""
+
+#: editpointsconfig.php:663
+msgid "Cancel"
+msgstr ""
+
+#: editpointsconfig.php:701
+#, php-format
+msgid "Edit point: %s (id: %s)"
+msgstr ""
+
+#: editpointsconfig.php:839
+msgid "Add new point"
+msgstr ""
+
+#: russiahtmlmap.php:31
+msgid "Russia Map"
+msgstr ""
+
+#: russiahtmlmap.php:33
+msgid "General Settings"
+msgstr ""
+
+#: russiahtmlmap.php:38 russiahtmlmap.php:130
+msgid "Map Preview"
+msgstr ""
+
+#: russiahtmlmap.php:40
+msgid "Maps"
+msgstr ""
+
+#: russiahtmlmap.php:70
+msgid "Select a map:"
+msgstr ""
+
+#: russiahtmlmap.php:76
+msgid "Select a map for editing and previewing"
+msgstr ""
+
+#: russiahtmlmap.php:78
+msgid "List of all maps, creating a new map, backup"
+msgstr ""
+
+#: russiahtmlmap.php:141
+#, php-format
+msgid "Use shortcode %s for install this map"
+msgstr ""
+
+#: russiahtmlmap.php:585
+msgid "Loading..."
+msgstr ""
+
+#: russiahtmlmap.php:651
+msgid "Settings"
+msgstr ""
+
+#: russiahtmlmap.php:1324
+#, php-format
+msgid ""
+"CSV import should be done on the \"<a href=\"%s\">Import / Export</a>\" tab"
+msgstr ""
+
+#: russiahtmlmap.php:1347
+#, php-format
+msgid ""
+"Failed to import \"%s\", looks like it is a wrong map. Got %d states when "
+"expected states count was: %d"
+msgstr ""
+
+#: russiahtmlmap.php:1354
+#, php-format
+msgid "Section \"%s\" skipped cause it has no \"map_data\" block."
+msgstr ""
+
+#: russiahtmlmap.php:1360
+msgid "Failed to parse uploaded file. Is it JSON?"
+msgstr ""
+
+#: russiahtmlmap.php:1366
+msgid "File uploading error!"
+msgstr ""
+
+#: editgroupsconfig.php:26
+msgid "No group name is specified"
+msgstr ""
+
+#: editgroupsconfig.php:30 editgroupsconfig.php:48
+#, php-format
+msgid "Group with name \"%s\" already exists"
+msgstr ""
+
+#: editgroupsconfig.php:94
+msgid "Areas successfully assigned, settings saved"
+msgstr ""
+
+#: editgroupsconfig.php:119
+msgid "Russia Map: delete group"
+msgstr ""
+
+#: editgroupsconfig.php:121
+#, php-format
+msgid "You are going to delete \"%s\" group from map \"%s\"."
+msgstr ""
+
+#: editgroupsconfig.php:122
+msgid "Are you sure you want to delete this group?"
+msgstr ""
+
+#: editgroupsconfig.php:125
+msgid "Yes, delete this group"
+msgstr ""
+
+#: editgroupsconfig.php:126
+msgid "No, go back to selected group"
+msgstr ""
+
+#: editgroupsconfig.php:137
+msgid "Configuration of groups"
+msgstr ""
+
+#: editgroupsconfig.php:197
+msgid ""
+"This tab allow you grouping several areas into groups with specific behavior."
+" This way you can represent sales territories, reseller zones etc."
+msgstr ""
+
+#: editgroupsconfig.php:198
+msgid ""
+"* The term \"area\" means one of the following: state, country, province, "
+"county or district, depending on the particular plugin."
+msgstr ""
+
+#: editgroupsconfig.php:201
+msgid "Group selection"
+msgstr ""
+
+#: editgroupsconfig.php:204
+msgid "Select a group"
+msgstr ""
+
+#: editgroupsconfig.php:214
+msgid "or"
+msgstr ""
+
+#: editgroupsconfig.php:215
+msgid "Create a new one:"
+msgstr ""
+
+#: editgroupsconfig.php:217
+msgid "Create a new group:"
+msgstr ""
+
+#: editgroupsconfig.php:219
+msgid "New group"
+msgstr ""
+
+#: editgroupsconfig.php:220
+msgid "Add new group"
+msgstr ""
+
+#: editgroupsconfig.php:240
+#, php-format
+msgid "This area assigned to \"%s\" group"
+msgstr ""
+
+#: editgroupsconfig.php:278
+msgid "Area selection"
+msgstr ""
+
+#: editgroupsconfig.php:281
+msgid ""
+"Click to select areas you want to include to the group. If you click an area "
+"already assigned to another group, it will be re-assigned to this group "
+"instead."
+msgstr ""
+
+#: editgroupsconfig.php:290
+msgid "Group settings"
+msgstr ""
+
+#: editgroupsconfig.php:295
+msgid "Group name:"
+msgstr ""
+
+#: editgroupsconfig.php:296
+msgid "Name of this group"
+msgstr ""
+
+#: editgroupsconfig.php:299
+msgid "Keep individual highlighting"
+msgstr ""
+
+#: editgroupsconfig.php:303
+msgid "Override individual tooltip settings"
+msgstr ""
+
+#: editgroupsconfig.php:305
+msgid "Displayed name:"
+msgstr ""
+
+#: editgroupsconfig.php:306
+msgid "Display this name when mouse is over the group"
+msgstr ""
+
+#: editgroupsconfig.php:319
+msgid "Override individual action settings"
+msgstr ""
+
+#: editgroupsconfig.php:321
+msgid "What to do when the group is clicked:"
+msgstr ""
+
+#: editgroupsconfig.php:323
+msgid "A click on this group opens a specified URL"
+msgstr ""
+
+#: editgroupsconfig.php:325
+msgid ""
+"Show lightbox popup, that you are can create with the plugin \"Popup "
+"Builder\""
+msgstr ""
+
+#: editgroupsconfig.php:348
+msgid "Override individual color settings"
+msgstr ""
+
+#: editgroupsconfig.php:350
+msgid "Group color:"
+msgstr ""
+
+#: editgroupsconfig.php:351
+msgid "The color of a group."
+msgstr ""
+
+#: editgroupsconfig.php:353
+msgid "Group hover color:"
+msgstr ""
+
+#: editgroupsconfig.php:354
+msgid "The color of a group when the mouse cursor is over it."
+msgstr ""
+
+#: bulkconfig.php:3
+msgid "Areas"
+msgstr ""
+
+#: bulkconfig.php:18
+msgid "Bulk editing"
+msgstr ""
+
+#: bulkconfig.php:23
+msgid "Display options"
+msgstr ""
+
+#: bulkconfig.php:27
+msgid "Hide popup name:"
+msgstr ""
+
+#: bulkconfig.php:29 bulkconfig.php:35
+msgid "do not change"
+msgstr ""
+
+#: bulkconfig.php:45
+msgid "Click/tap events"
+msgstr ""
+
+#: bulkconfig.php:84
+msgid "Tooltips"
+msgstr ""
+
+#: bulkconfig.php:97
+msgid "Colors"
+msgstr ""
+
+#: bulkconfig.php:120
+msgid "Image"
+msgstr ""
+
+#: bulkconfig.php:135
+msgid "CSS class"
+msgstr ""
+
+#. Name of the plugin
+msgid "Interactive Map of Russia for WP"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"High-quality map plugin of Russia for WordPress. The map depicts regions and "
+"features color, font, landing page and popup customization"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.fla-shop.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Fla-shop.com"
+msgstr ""

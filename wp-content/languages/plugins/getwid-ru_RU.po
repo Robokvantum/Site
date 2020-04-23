@@ -1,0 +1,2848 @@
+# Translation of Plugins - Getwid &#8211; Gutenberg Blocks - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Getwid &#8211; Gutenberg Blocks - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-02 15:20:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Getwid &#8211; Gutenberg Blocks - Development (trunk)\n"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide height"
+msgstr "Высота слайда"
+
+#: assets/js/editor.blocks.js:6
+msgid "120%"
+msgstr "120%"
+
+#: assets/js/editor.blocks.js:6
+msgid "110%"
+msgstr "110%"
+
+#: assets/js/editor.blocks.js:6
+msgid "90%"
+msgstr "90%"
+
+#: assets/js/editor.blocks.js:6
+msgid "80%"
+msgstr "80%"
+
+#: assets/js/editor.blocks.js:6
+msgid "70%"
+msgstr "70%"
+
+#: assets/js/editor.blocks.js:6
+msgid "60%"
+msgstr "60%"
+
+#: assets/js/editor.blocks.js:6
+msgid "Lock"
+msgstr "Отключить"
+
+#: assets/js/editor.blocks.js:6
+msgid "Unlock"
+msgstr "Включить"
+
+#: assets/js/editor.blocks.js:23
+msgid "Select a layout to start with, or make one yourself."
+msgstr "Выберите макет для начала или создайте его самостоятельно."
+
+#: assets/js/editor.blocks.js:23
+msgid "Choose Layout"
+msgstr "Выберите макет"
+
+#: assets/js/editor.blocks.js:23
+msgid "Custom background"
+msgstr "Пользовательский фон"
+
+#: assets/js/editor.blocks.js:23
+msgid "Two columns"
+msgstr "Два столбца"
+
+#: assets/js/editor.blocks.js:23
+msgid "Image in background"
+msgstr "Изображение фона"
+
+#: assets/js/editor.blocks.js:23
+msgid "Classic"
+msgstr "Классический"
+
+#: assets/js/editor.blocks.js:23
+msgid "Custom Field"
+msgstr "Пользовательское поле"
+
+#: assets/js/editor.blocks.js:23
+msgid "Meta"
+msgstr "Мета"
+
+#: assets/js/editor.blocks.js:23
+msgid "Image Height"
+msgstr "Высота изображения"
+
+#: assets/js/editor.blocks.js:23
+msgid "Background Featured Image"
+msgstr "Изображение записи в фоне"
+
+#: assets/js/editor.blocks.js:23
+msgid "Tags"
+msgstr "Метки"
+
+#: assets/js/editor.blocks.js:23
+msgid "Comments"
+msgstr "Комментарии"
+
+#: assets/js/editor.blocks.js:23
+msgid "Categories"
+msgstr "Рубрики"
+
+#: assets/js/editor.blocks.js:23
+msgid "Author"
+msgstr "Автор"
+
+#: assets/js/editor.blocks.js:23
+msgid "Full Content"
+msgstr "Всё содержимое"
+
+#: assets/js/editor.blocks.js:23
+msgid "Post Content"
+msgstr "Содержимое записи"
+
+#: assets/js/editor.blocks.js:23
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: assets/js/editor.blocks.js:23
+msgid "Display Content"
+msgstr "Отобразить содержимое"
+
+#: assets/js/editor.blocks.js:23
+msgid "Post Content (full content)"
+msgstr "Содержимое записи (всё содержимое)"
+
+#: assets/js/editor.blocks.js:23
+msgid "Post Content (content)"
+msgstr "Содержимое записи (содержимое)"
+
+#: assets/js/editor.blocks.js:23
+msgid "Post Content (excerpt)"
+msgstr "Содержимое записи (отрывок)"
+
+#: assets/js/editor.blocks.js:23
+msgid "Content"
+msgstr "Содержимое"
+
+#: assets/js/editor.blocks.js:23
+msgid "Featured Image"
+msgstr "Изображение записи"
+
+#: assets/js/editor.blocks.js:23
+msgid "Post"
+msgstr "Запись"
+
+#: assets/js/editor.blocks.js:23
+msgid "Post Title"
+msgstr "Заголовок записи"
+
+#: assets/js/editor.blocks.js:23
+msgid "Bold"
+msgstr "Жирный"
+
+#: assets/js/editor.blocks.js:23
+msgid "Divider"
+msgstr "Разделитель"
+
+#: assets/js/editor.blocks.js:23
+msgid "Delete Image"
+msgstr "Удалить изображение"
+
+#: assets/js/editor.blocks.js:23
+msgid "Edit Image"
+msgstr "Редактировать изображение"
+
+#: assets/js/editor.blocks.js:23
+msgid "list"
+msgstr "список"
+
+#: assets/js/editor.blocks.js:23
+msgid "price"
+msgstr "цена"
+
+#: assets/js/editor.blocks.js:23
+msgid "Price List"
+msgstr "Прайс-лист"
+
+#: assets/js/editor.blocks.js:23
+msgid "Grid View"
+msgstr "В виде сетки"
+
+#: assets/js/editor.blocks.js:23
+msgid "List View"
+msgstr "В виде списка"
+
+#: assets/js/editor.blocks.js:23
+msgid "Custom Post Type"
+msgstr "Пользовательский тип записи"
+
+#: assets/js/editor.blocks.js:23
+msgid "Post Slider"
+msgstr "Слайдер записей"
+
+#: assets/js/editor.blocks.js:23
+msgid "Display Settings"
+msgstr "Настройки отображения"
+
+#: assets/js/editor.blocks.js:23
+msgid "Content Settings"
+msgstr "Настройки содержимого"
+
+#: assets/js/editor.blocks.js:23
+msgid "Post Carousel"
+msgstr "Карусель записей"
+
+#: assets/js/editor.blocks.js:23
+msgid "Button Background Color"
+msgstr "Цвет фона кнопки"
+
+#: assets/js/editor.blocks.js:23
+msgid "Button Text Color"
+msgstr "Цвет текста кнопки"
+
+#: assets/js/editor.blocks.js:23
+msgid "Subject"
+msgstr "Тема"
+
+#: assets/js/editor.blocks.js:23
+msgid "Light"
+msgstr "Светлый"
+
+#: assets/js/editor.blocks.js:23
+msgid "Color Theme"
+msgstr "Цвет темы"
+
+#: assets/js/editor.blocks.js:23
+msgid "ID"
+msgstr "ID"
+
+#: assets/js/editor.blocks.js:23
+msgid "Field Settings"
+msgstr "Настройки поля"
+
+#: assets/js/editor.blocks.js:23
+msgid "Set the placeholder text"
+msgstr "Установить текст плейсхолдера"
+
+#: assets/js/editor.blocks.js:23
+msgid "Captcha"
+msgstr "Captcha"
+
+#: assets/js/editor.blocks.js:23
+msgid "message"
+msgstr "cообщение"
+
+#: assets/js/editor.blocks.js:23
+msgid "email"
+msgstr "e-mail"
+
+#: assets/js/editor.blocks.js:23
+msgid "Contact Form"
+msgstr "Контактная форма"
+
+#: assets/js/editor.blocks.js:23
+msgctxt "Period, placeholder"
+msgid "/month"
+msgstr "/месяц"
+
+#: assets/js/editor.blocks.js:23
+msgid "Progress Color"
+msgstr "Цвет шкалы прогресса"
+
+#: assets/js/editor.blocks.js:6
+msgid "Required"
+msgstr "Обязательно"
+
+#: assets/js/editor.blocks.js:6
+msgid "Write label…"
+msgstr "Введите название…"
+
+#: assets/js/editor.blocks.js:6
+msgid "Reset to default"
+msgstr "Вернуть установки по умолчанию"
+
+#: assets/js/editor.blocks.js:6
+msgid "View All"
+msgstr "Посмотреть все"
+
+#: assets/js/editor.blocks.js:6
+msgid "New"
+msgstr "Добавить"
+
+#: assets/js/editor.blocks.js:6
+msgid "Post Template"
+msgstr "Шаблон записи"
+
+#: assets/js/editor.blocks.js:6
+msgid "Item should have at least one of selected terms."
+msgstr "Элемент должен иметь хотя бы один выбранный параметр."
+
+#: assets/js/editor.blocks.js:6
+msgid "Item should have all of selected terms."
+msgstr "Элемент должен иметь все выбранные параметры."
+
+#: assets/js/editor.blocks.js:6
+msgid "Terms Relation"
+msgstr "Отношение параметров"
+
+#: assets/js/editor.blocks.js:6
+msgid "Terms"
+msgstr "Параметры"
+
+#: assets/js/editor.blocks.js:6
+msgid "Hold ctrl/cmd to select multiple or deselect"
+msgstr "Зажмите и удерживайте ctrl/cmd для выбора нескольких или отмены"
+
+#: assets/js/editor.blocks.js:6
+msgid "Taxonomies"
+msgstr "Таксономия"
+
+#: assets/js/editor.blocks.js:6
+msgid "Parent page ID"
+msgstr "ID родительской страницы"
+
+#: assets/js/editor.blocks.js:6
+msgid "Enter page ID to display its child pages"
+msgstr "Введите ID страницы, чтобы отобразить её дочерние страницы"
+
+#: assets/js/editor.blocks.js:6
+msgid "Comma-separated IDs"
+msgstr "ID, разделенные запятой"
+
+#: assets/js/editor.blocks.js:6
+msgid "Filter by IDs"
+msgstr "Фильтровать по ID"
+
+#: assets/js/editor.blocks.js:6
+msgid "Ignore Sticky posts"
+msgstr "Пропускать прилепленные записи"
+
+#: assets/js/editor.blocks.js:6
+msgid "Random"
+msgstr "Случайно"
+
+#: assets/js/editor.blocks.js:6
+msgid "Menu order"
+msgstr "Порядок меню"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Date"
+msgstr "Дата"
+
+#: assets/js/editor.blocks.js:6
+msgid "Order by"
+msgstr "Сортировать по"
+
+#: assets/js/editor.blocks.js:6
+msgid "A → Z, 1 → 9"
+msgstr "А \t Я, 1 \t 9"
+
+#: assets/js/editor.blocks.js:6
+msgid "Z → A, 9 → 1"
+msgstr "Я \t А, 9 \t 1"
+
+#: assets/js/editor.blocks.js:6
+msgid "Order"
+msgstr "Порядок"
+
+#: assets/js/editor.blocks.js:6
+msgid "Sorting and Filtering"
+msgstr "Сортировка и фильтрование"
+
+#: assets/js/editor.blocks.js:6
+msgid "Use pagination"
+msgstr "Использовать пагинацию"
+
+#: assets/js/editor.blocks.js:6
+msgid "Number of items per page"
+msgstr "Количество элементов на странице"
+
+#: assets/js/editor.blocks.js:6
+msgid "Choose what to display"
+msgstr "Выберите материалы для отображения"
+
+#: includes/blocks/template-parts/post-link.php:55
+#: includes/blocks/template-parts/post-button.php:67
+#: assets/js/editor.blocks.js:23
+msgid "Read More"
+msgstr "Читать далее"
+
+#: includes/blocks/custom-post-type.php:112
+msgctxt "Next post"
+msgid ">"
+msgstr ">"
+
+#: includes/blocks/custom-post-type.php:111
+msgctxt "Previous post"
+msgid "<"
+msgstr "<"
+
+#: includes/blocks/custom-post-type.php:98
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: includes/blocks/custom-post-type.php:91
+msgid "Nothing found."
+msgstr "Ничего не найдено."
+
+#: includes/writing-settings.php:86 assets/js/editor.blocks.js:23
+msgid "Recaptcha Secret Key"
+msgstr "Cекретный ключ Recaptcha"
+
+#: includes/writing-settings.php:81 assets/js/editor.blocks.js:23
+msgid "Recaptcha Site Key"
+msgstr "Ключ сайта Recaptcha"
+
+#: includes/rest-api.php:111
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: includes/rest-api.php:88
+msgid "Post Type"
+msgstr "Тип записи"
+
+#: includes/rest-api.php:56
+msgid "Forbidden."
+msgstr "Запрещено."
+
+#: includes/post-template-part.php:39
+msgid "No templates found in Trash"
+msgstr "Шаблоны в корзине не найдены"
+
+#: includes/post-template-part.php:38
+msgid "No templates found"
+msgstr "Шаблоны не найдены"
+
+#: includes/post-template-part.php:37
+msgid "Search Templates"
+msgstr "Поиск шаблонов"
+
+#: includes/post-template-part.php:36
+msgid "View Template"
+msgstr "Просмотреть шаблон"
+
+#: includes/post-template-part.php:34
+msgid "Edit Template"
+msgstr "Редактировать шаблон"
+
+#: includes/post-template-part.php:33
+msgid "Add New Template"
+msgstr "Добавить новый шаблон"
+
+#: includes/post-template-part.php:32 includes/post-template-part.php:35
+msgid "New Template"
+msgstr "Новый шаблон"
+
+#: includes/post-template-part.php:31 assets/js/editor.blocks.js:23
+msgid "Getwid Templates"
+msgstr "Шаблоны Getwid"
+
+#: includes/post-template-part.php:30
+msgid "Template"
+msgstr "Шаблон"
+
+#: includes/post-template-part.php:29 includes/rest-api.php:134
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: includes/scripts-manager.php:148
+msgid "The response is no longer valid: either is too old or has been used previously."
+msgstr "Ответ больше не действителен: он либо слишком старый, либо использовался ранее."
+
+#: includes/scripts-manager.php:142
+msgid "The response parameter is invalid or malformed."
+msgstr "Параметр ответа недействителен или указан неправильно."
+
+#: includes/scripts-manager.php:136
+msgid "The secret parameter is invalid or malformed."
+msgstr "Секретный параметр недействителен или указан неправильно."
+
+#: includes/scripts-manager.php:130
+msgid "Please check the captcha."
+msgstr "Пожалуйста, проверьте Captcha."
+
+#: includes/scripts-manager.php:124
+msgid "The secret parameter is missing."
+msgstr "Отсутствует секретный параметр."
+
+#: includes/scripts-manager.php:118
+msgid "The request is invalid or malformed."
+msgstr "Запрос недействителен или указан неправильно."
+
+#: includes/scripts-manager.php:111
+msgid "There was an error trying to send your message. Please try again later."
+msgstr "Произошла ошибка при попытке отправить сообщение. Повторите попытку позже."
+
+#: includes/scripts-manager.php:104
+msgid "Thank you for your message. It has been sent."
+msgstr "Спасибо за ваше сообщение. Оно отправлено."
+
+#: includes/scripts-manager.php:89
+msgid "This e-mail was sent from a contact form on %s"
+msgstr "Это письмо было отправлено из контактной формы %s"
+
+#: assets/js/editor.blocks.js:23
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/templates/contact-form/field-email.php:8
+msgid "Email address"
+msgstr "E-mail адрес"
+
+#: includes/templates/contact-form/field-textarea.php:8
+#: assets/js/editor.blocks.js:23
+msgid "Message"
+msgstr "Сообщение"
+
+#: includes/templates/contact-form/contact-form.php:25
+msgid "Submit"
+msgstr "Отправить"
+
+#: includes/blocks-manager.php:47
+msgid "Getwid Post Blocks"
+msgstr "Блоки записей Getwid"
+
+#: assets/js/editor.blocks.js:23
+msgid "Price Box"
+msgstr "Таблица цен"
+
+#: assets/js/editor.blocks.js:23
+msgid "Farsi"
+msgstr "Фарси"
+
+#: assets/js/editor.blocks.js:23
+msgid "Eastern Arabic"
+msgstr "Арабские"
+
+#: assets/js/editor.blocks.js:23
+msgid "Numerals"
+msgstr "Цифры"
+
+#: assets/js/editor.blocks.js:23
+msgid "Decimal Separator"
+msgstr "Десятичный разделитель"
+
+#: assets/js/editor.blocks.js:23
+msgid "Decimal Places"
+msgstr "Кол-во знаков после запятой"
+
+#: assets/js/editor.blocks.js:23
+msgid "Thousands Separator"
+msgstr "Разделитель тысяч"
+
+#: assets/js/editor.blocks.js:23
+msgid "Display Thousands Separator"
+msgstr "Отобразить разделитель тысяч"
+
+#: assets/js/editor.blocks.js:23
+msgid "Smooth Animation"
+msgstr "Плавная анимация"
+
+#: assets/js/editor.blocks.js:23
+msgid "Advanced Settings"
+msgstr "Расширенные настройки"
+
+#: assets/js/editor.blocks.js:23
+msgid "End"
+msgstr "Конец"
+
+#: assets/js/editor.blocks.js:23
+msgid "Start"
+msgstr "Начало"
+
+#: assets/js/editor.blocks.js:23
+msgid "Suffix"
+msgstr "Суффикс"
+
+#: assets/js/editor.blocks.js:23
+msgid "Prefix"
+msgstr "Префикс"
+
+#: assets/js/editor.blocks.js:23
+msgctxt "Decimal separator"
+msgid "."
+msgstr "."
+
+#: assets/js/editor.blocks.js:23
+msgctxt "Thousands separator"
+msgid ","
+msgstr ","
+
+#: assets/js/editor.blocks.js:23
+msgid "Counter"
+msgstr "Счётчик"
+
+#: assets/js/editor.blocks.js:23
+msgid "Animate"
+msgstr "Анимировать"
+
+#: assets/js/editor.blocks.js:23
+msgid "Thickness"
+msgstr "Толщина"
+
+#: assets/js/editor.blocks.js:23
+msgid "Circular Progress Bar"
+msgstr "Круглый индикатор прогресса"
+
+#: assets/js/editor.blocks.js:23
+msgid "Bar Color"
+msgstr "Цвет"
+
+#: assets/js/editor.blocks.js:23
+msgid "Value"
+msgstr "Значение"
+
+#: assets/js/editor.blocks.js:23
+msgid "Progress Bar"
+msgstr "Индикатор прогресса"
+
+#: assets/js/editor.blocks.js:23
+msgid "Display Likes"
+msgstr "Отобразить лайки"
+
+#: assets/js/editor.blocks.js:23
+msgid "Click Connect Instagram Account and authorize the app in a new tab to receive access token. Then return to this tab and click Update. You can revoke the granted access any time in your Instagram profile settings."
+msgstr "Нажмите «Подключить учётную запись Instagram» и авторизуйте приложение в новой вкладке, чтобы получить электронный ключ безопасности для доступа. Затем вернитесь в эту вкладку и нажмите «Обновить». Вы можете отменить предоставленный доступ в любое время в настройках своего профиля в Instagram."
+
+#: assets/js/editor.blocks.js:23
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/blocks/instagram.php:52
+msgid "Error in json_decode."
+msgstr "Ошибка в json_decode."
+
+#: includes/blocks/instagram.php:14
+msgid "Instagram Access Token is not set. <a href=\"%s\">Connect Instagram Account</a>."
+msgstr "Электронный ключ доступа к Instagram не установлен. <a href=\"%s\"> Подключите учётную запись Instagram </a>."
+
+#: includes/writing-settings.php:108 assets/js/editor.blocks.js:23
+msgid "Connect Instagram Account"
+msgstr "Подключите учётную запись Instagram"
+
+#: includes/writing-settings.php:70
+msgid "Instagram Access Token"
+msgstr "Электронный ключ доступа к Instagram"
+
+#: includes/writing-settings.php:31
+msgid "Instagram: access denied."
+msgstr "Instagram: доступ запрещён."
+
+#: includes/writing-settings.php:23
+msgid "Instagram: access token updated."
+msgstr "Instagram: обновлён электронный ключ доступа."
+
+#: assets/js/editor.blocks.js:23
+msgid "Crop Image"
+msgstr "Обрезать изображение"
+
+#: assets/js/editor.blocks.js:23
+msgid "member"
+msgstr "участник"
+
+#: assets/js/editor.blocks.js:23
+msgid "team"
+msgstr "команда"
+
+#: assets/js/editor.blocks.js:23
+msgid "Person"
+msgstr "Карточка человека"
+
+#: assets/js/editor.blocks.js:23
+msgid "Write subtitle…"
+msgstr "Введите подзаголовок…"
+
+#: assets/js/editor.blocks.js:23
+msgid "feedback"
+msgstr "обратная связь"
+
+#: assets/js/editor.blocks.js:23
+msgid "review"
+msgstr "обзор"
+
+#: assets/js/editor.blocks.js:23
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: assets/js/editor.blocks.js:23
+msgid "20%"
+msgstr "20%"
+
+#: assets/js/editor.blocks.js:23
+msgid "25%"
+msgstr "25%"
+
+#: assets/js/editor.blocks.js:23
+msgid "33%"
+msgstr "33%"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "50%"
+msgstr "50%"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "100%"
+msgstr "100%"
+
+#: assets/js/editor.blocks.js:23
+msgid "Button Width"
+msgstr "Ширина кнопки"
+
+#: assets/js/editor.blocks.js:23
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: assets/js/editor.blocks.js:23
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: assets/js/editor.blocks.js:23
+msgid "Direction"
+msgstr "Направление"
+
+#: assets/js/editor.blocks.js:23
+msgid "Button"
+msgstr "Кнопка"
+
+#: assets/js/editor.blocks.js:23
+msgid "Button Group"
+msgstr "Группа кнопок"
+
+#: assets/js/editor.blocks.js:23
+msgid "Add Icon"
+msgstr "Добавить иконку"
+
+#: assets/js/editor.blocks.js:23
+msgid "Edit Icon"
+msgstr "Редактировать иконку"
+
+#: assets/js/editor.blocks.js:23
+msgid "share"
+msgstr "поделиться"
+
+#: assets/js/editor.blocks.js:23
+msgid "twitter"
+msgstr "twitter"
+
+#: assets/js/editor.blocks.js:23
+msgid "facebook"
+msgstr "facebook"
+
+#: assets/js/editor.blocks.js:23
+msgid "Social Links"
+msgstr "Иконки социальных сетей"
+
+#: assets/js/editor.blocks.js:23
+msgid "Hide on Mobile"
+msgstr "Скрывать на телефоне"
+
+#: assets/js/editor.blocks.js:23
+msgid "Hide on Tablet"
+msgstr "Скрывать на планшете"
+
+#: assets/js/editor.blocks.js:23
+msgid "Hide on Desktop"
+msgstr "Скрывать на компьютере"
+
+#: assets/js/editor.blocks.js:23
+msgid "Height"
+msgstr "Высота"
+
+#: assets/js/editor.blocks.js:23
+msgid "Advanced Spacer"
+msgstr "Расширенный интервал"
+
+#: assets/js/editor.blocks.js:23
+msgid "Image Link"
+msgstr "Ссылка на изображение"
+
+#: assets/js/editor.blocks.js:23
+msgid "Mobile Alignment"
+msgstr "Выравнивание для телефона"
+
+#: assets/js/editor.blocks.js:23
+msgid "Column Reverse Order"
+msgstr "Обратный порядок столбцов"
+
+#: assets/js/editor.blocks.js:23
+msgid "Column"
+msgstr "Столбец"
+
+#: assets/js/editor.blocks.js:23
+msgid "Mobile Layout"
+msgstr "Макет для телефона"
+
+#: assets/js/editor.blocks.js:23
+msgid "Image Hover Animation"
+msgstr "Анимация изображения при наведении"
+
+#: assets/js/editor.blocks.js:23
+msgid "Image Vertical Alignment"
+msgstr "Вертикальное выравнивание изображения"
+
+#: assets/js/editor.blocks.js:23
+msgid "Align Image Right"
+msgstr "Выровнять изображение справа"
+
+#: assets/js/editor.blocks.js:23
+msgid "Align Image Left"
+msgstr "Выровнять изображение слева"
+
+#: assets/js/editor.blocks.js:23
+msgid "Image Box"
+msgstr "Картинка с текстом"
+
+#: assets/js/editor.blocks.js:23
+msgid "Font Weight"
+msgstr "Жирность шрифта"
+
+#: assets/js/editor.blocks.js:23
+msgid "Loading…"
+msgstr "Загрузка…"
+
+#: assets/js/editor.blocks.js:23
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: assets/js/editor.blocks.js:23
+msgid "Select Font Family"
+msgstr "Выбрать семейство шрифтов"
+
+#: assets/js/editor.blocks.js:23
+msgid "Letter Spacing"
+msgstr "Межсимвольный интервал"
+
+#: assets/js/editor.blocks.js:23
+msgid "Line Height"
+msgstr "Пространство между строками"
+
+#: assets/js/editor.blocks.js:23
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: assets/js/editor.blocks.js:23
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: assets/js/editor.blocks.js:23
+msgid "Capitalize"
+msgstr "Заглавные буквы"
+
+#: assets/js/editor.blocks.js:23
+msgid "Text Transform"
+msgstr "Преобразование текста"
+
+#: assets/js/editor.blocks.js:23
+msgid "Inherit"
+msgstr "Унаследовать"
+
+#: assets/js/editor.blocks.js:23
+msgid "Italic"
+msgstr "Курсив"
+
+#: assets/js/editor.blocks.js:23
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: assets/js/editor.blocks.js:6
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: assets/js/editor.blocks.js:23
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: assets/js/editor.blocks.js:23
+msgid "Span"
+msgstr "Интервал"
+
+#: assets/js/editor.blocks.js:23
+msgid "Advanced Heading"
+msgstr "Расширенный заголовок"
+
+#: assets/js/editor.blocks.js:23
+msgid "Display Comments"
+msgstr "Отображать комментарии"
+
+#: assets/js/editor.blocks.js:23
+msgid "Display Categories"
+msgstr "Отображать рубрики"
+
+#: assets/js/editor.blocks.js:23
+msgid "Display Date"
+msgstr "Отображать дату"
+
+#: assets/js/editor.blocks.js:23
+msgid "Number of words"
+msgstr "Количество слов"
+
+#: assets/js/editor.blocks.js:23
+msgid "Display Except"
+msgstr "Отображать, кроме"
+
+#: assets/js/editor.blocks.js:23
+msgid "Display Featured Image"
+msgstr "Отображать изображение записи"
+
+#: assets/js/editor.blocks.js:23
+msgid "Display Title"
+msgstr "Отображать название"
+
+#: assets/js/editor.blocks.js:23
+msgid "Columns"
+msgstr "Столбцы"
+
+#: assets/js/editor.blocks.js:23
+msgid "Grid"
+msgstr "Сетка"
+
+#: assets/js/editor.blocks.js:23
+msgid "List"
+msgstr "Список"
+
+#: assets/js/editor.blocks.js:23
+msgid "No posts found."
+msgstr "Записей не найдено."
+
+#: assets/js/editor.blocks.js:23
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+#: assets/js/editor.blocks.js:23
+msgid "Snazzy Maps"
+msgstr "Snazzy Maps"
+
+#: assets/js/editor.blocks.js:23
+msgid "Google Maps Styling Wizard"
+msgstr "Помощник по стилизации Google Maps"
+
+#: assets/js/editor.blocks.js:23
+msgid "Custom Style (JSON)"
+msgstr "Произвольный стиль (JSON)"
+
+#: assets/js/editor.blocks.js:23
+msgid "Light Dream"
+msgstr "Мечтательный"
+
+#: assets/js/editor.blocks.js:23
+msgid "Wireframe"
+msgstr "Каркас"
+
+#: assets/js/editor.blocks.js:23
+msgid "Vintage"
+msgstr "Винтаж"
+
+#: assets/js/editor.blocks.js:23
+msgid "Wild West"
+msgstr "Дикий Запад"
+
+#: assets/js/editor.blocks.js:23
+msgid "No Labels"
+msgstr "Без названия"
+
+#: assets/js/editor.blocks.js:23
+msgid "Shades of Grey"
+msgstr "Оттенки серого"
+
+#: assets/js/editor.blocks.js:23
+msgid "Dark Silver"
+msgstr "Тёмно-серебряный"
+
+#: assets/js/editor.blocks.js:23
+msgid "Ultra Light"
+msgstr "Ультралегкая"
+
+#: assets/js/editor.blocks.js:23
+msgid "Blue Water"
+msgstr "Синий океан"
+
+#: assets/js/editor.blocks.js:23
+msgid "Aubergine"
+msgstr "Тёмно-фиолетовый"
+
+#: assets/js/editor.blocks.js:23
+msgid "Night"
+msgstr "Ночь"
+
+#: assets/js/editor.blocks.js:23
+msgid "Dark"
+msgstr "Тёмный"
+
+#: assets/js/editor.blocks.js:23
+msgid "Retro"
+msgstr "Ретро"
+
+#: assets/js/editor.blocks.js:23
+msgid "Silver"
+msgstr "Серебряный"
+
+#: assets/js/editor.blocks.js:23
+msgid "Map Style"
+msgstr "Стиль карты"
+
+#: assets/js/editor.blocks.js:23
+msgid "Markers"
+msgstr "Маркеры"
+
+#: assets/js/editor.blocks.js:23
+msgid "Cancel"
+msgstr "Отмена"
+
+#: assets/js/editor.blocks.js:23
+msgid "Save"
+msgstr "Сохранить"
+
+#: assets/js/editor.blocks.js:23
+msgid "Popup Maximum Width, px."
+msgstr "Максимальная ширина всплывающих окон, px."
+
+#: assets/js/editor.blocks.js:23
+msgid "Center Longitude"
+msgstr "Долгота"
+
+#: assets/js/editor.blocks.js:23
+msgid "Center Latitude"
+msgstr "Широта"
+
+#: assets/js/editor.blocks.js:23
+msgid "Drag and zoom map in preview area to apply."
+msgstr "Чтобы применить, перетаскивайте и увеличивайте карту в области предварительного просмотра."
+
+#: assets/js/editor.blocks.js:23
+msgid "Zoom"
+msgstr "Увеличить"
+
+#: assets/js/editor.blocks.js:23
+msgid "Map Center & Zoom"
+msgstr "Увеличение и центр карты"
+
+#: assets/js/editor.blocks.js:23
+msgid "Show Full Screen"
+msgstr "Показать во весь экран"
+
+#: assets/js/editor.blocks.js:23
+msgid "Show Street View"
+msgstr "Показать просмотр улиц"
+
+#: assets/js/editor.blocks.js:23
+msgid "Show Map Type"
+msgstr "Показать тип карты"
+
+#: assets/js/editor.blocks.js:23
+msgid "Show Zoom"
+msgstr "Показать увеличение"
+
+#: assets/js/editor.blocks.js:23
+msgid "Enable zoom and pan"
+msgstr "Включить увеличение и панорамирование"
+
+#: assets/js/editor.blocks.js:23
+msgid "Disable zoom and pan"
+msgstr "Отключить увеличение и панорамирование"
+
+#: assets/js/editor.blocks.js:23
+msgid "Prevent zoom on page scroll"
+msgstr "Не увеличивать при прокрутке страниц"
+
+#: assets/js/editor.blocks.js:23
+msgid "These options are applied on frontend only."
+msgstr "Эти параметры применяются только во фронтэнде."
+
+#: assets/js/editor.blocks.js:23
+msgid "Zoom & Pan Interaction"
+msgstr "Взаимодействие увеличения и панорамирования"
+
+#: assets/js/editor.blocks.js:23
+msgid "Map Height"
+msgstr "Высота карты"
+
+#: assets/js/editor.blocks.js:23
+msgid "Delete"
+msgstr "Удалить"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Update"
+msgstr "Обновить"
+
+#: assets/js/editor.blocks.js:23
+msgid "Longitude"
+msgstr "Долгота"
+
+#: assets/js/editor.blocks.js:23
+msgid "Latitude"
+msgstr "Широта"
+
+#: assets/js/editor.blocks.js:23
+msgid "Popup Width"
+msgstr "Ширина всплывающего окна"
+
+#: assets/js/editor.blocks.js:23
+msgid "Opened by default"
+msgstr "Открыто по умолчанию"
+
+#: assets/js/editor.blocks.js:23
+msgid "Popup Content. Plain Text or HTML."
+msgstr "Содержимое всплывающего окна. Текстовые данные или HTML."
+
+#: includes/templates/contact-form/field-name.php:8
+#: assets/js/editor.blocks.js:23
+msgid "Name"
+msgstr "Имя"
+
+#: assets/js/editor.blocks.js:23
+msgid "Marker"
+msgstr "Маркер"
+
+#: assets/js/editor.blocks.js:23
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: assets/js/editor.blocks.js:23
+msgid "Zeta"
+msgstr "Дзета"
+
+#: assets/js/editor.blocks.js:23
+msgid "Epsilon"
+msgstr "Эпсилон"
+
+#: assets/js/editor.blocks.js:23
+msgid "Delta"
+msgstr "Дельта"
+
+#: assets/js/editor.blocks.js:23
+msgid "Gamma"
+msgstr "Гамма"
+
+#: assets/js/editor.blocks.js:23
+msgid "Beta"
+msgstr "Бета"
+
+#: assets/js/editor.blocks.js:23
+msgid "Alpha"
+msgstr "Альфа"
+
+#: assets/js/editor.blocks.js:23
+msgid "Style"
+msgstr "Стиль"
+
+#: assets/js/editor.blocks.js:23
+msgid "Edit Gallery"
+msgstr "Редактировать галерею"
+
+#: assets/js/editor.blocks.js:23
+msgid "Image Stack Gallery"
+msgstr "Галерея наложенных изображений"
+
+#: assets/js/editor.blocks.js:23
+msgid "All"
+msgstr "Все"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Edit"
+msgstr "Изменить"
+
+#: assets/js/editor.blocks.js:23
+msgid "accordion"
+msgstr "аккордеон"
+
+#: assets/js/editor.blocks.js:23
+msgid "Toggle"
+msgstr "Переключатель"
+
+#: assets/js/editor.blocks.js:23
+msgid "Icon Position"
+msgstr "Позиция иконки"
+
+#: assets/js/editor.blocks.js:23
+msgid "Active Icon"
+msgstr "Активная иконка"
+
+#: assets/js/editor.blocks.js:23
+msgid "Edit Accordion"
+msgstr "Редактировать аккордеон"
+
+#: assets/js/editor.blocks.js:23
+msgid "Move Item Down"
+msgstr "Переместить элемент ниже"
+
+#: assets/js/editor.blocks.js:23
+msgid "Move Item Up"
+msgstr "Переместить элемент выше"
+
+#: assets/js/editor.blocks.js:23
+msgid "toggle"
+msgstr "переключатель"
+
+#: assets/js/editor.blocks.js:23
+msgid "Accordion"
+msgstr "Аккордеон"
+
+#: assets/js/editor.blocks.js:23
+msgid "Active by default"
+msgstr "Активно по умолчанию"
+
+#: assets/js/editor.blocks.js:23
+msgid "Vertical Right"
+msgstr "Вертикально справа"
+
+#: assets/js/editor.blocks.js:23
+msgid "Vertical Left"
+msgstr "Вертикально слева"
+
+#: assets/js/editor.blocks.js:23
+msgid "Horizontal Right"
+msgstr "Горизонтально справа"
+
+#: assets/js/editor.blocks.js:23
+msgid "Horizontal Center"
+msgstr "Горизонтально по центру"
+
+#: assets/js/editor.blocks.js:23
+msgid "Horizontal Left"
+msgstr "Горизонтально слева"
+
+#: assets/js/editor.blocks.js:23
+msgid "Heading 6"
+msgstr "Заголовок 6"
+
+#: assets/js/editor.blocks.js:23
+msgid "Heading 5"
+msgstr "Заголовок 5"
+
+#: assets/js/editor.blocks.js:23
+msgid "Heading 4"
+msgstr "Заголовок 4"
+
+#: assets/js/editor.blocks.js:23
+msgid "Heading 3"
+msgstr "Заголовок 3"
+
+#: assets/js/editor.blocks.js:23
+msgid "Heading 2"
+msgstr "Заголовок 2"
+
+#: assets/js/editor.blocks.js:23
+msgid "Paragraph"
+msgstr "Абзац"
+
+#: assets/js/editor.blocks.js:23
+msgid "Title Tag"
+msgstr "Метка заголовка"
+
+#: assets/js/editor.blocks.js:23
+msgid "Add Item"
+msgstr "Добавить элемент"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Title"
+msgstr "Заголовок"
+
+#: assets/js/editor.blocks.js:23
+msgid "Edit Tabs"
+msgstr "Редактировать вкладки"
+
+#: assets/js/editor.blocks.js:23
+msgid "Delete Item"
+msgstr "Удалить элемент"
+
+#: assets/js/editor.blocks.js:23
+msgid "Duplicate Item"
+msgstr "Дублировать элемент"
+
+#: assets/js/editor.blocks.js:23
+msgid "Move Item Right"
+msgstr "Переместить элемент вправо"
+
+#: assets/js/editor.blocks.js:23
+msgid "Move Item Left"
+msgstr "Переместить элемент влево"
+
+#: assets/js/editor.blocks.js:23
+msgid "Add Item After"
+msgstr "Добавить элемент после"
+
+#: assets/js/editor.blocks.js:23
+msgid "Add Item Before"
+msgstr "Добавить элемент до"
+
+#: assets/js/editor.blocks.js:23
+msgid "Create"
+msgstr "Создать"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Number of items"
+msgstr "Количество элементов"
+
+#: assets/js/editor.blocks.js:23
+msgid "Tabs"
+msgstr "Вкладки"
+
+#: assets/js/editor.blocks.js:23
+msgid "Virgo"
+msgstr "Virgo"
+
+#: assets/js/editor.blocks.js:23
+msgid "Leo"
+msgstr "Leo"
+
+#: assets/js/editor.blocks.js:23
+msgid "Cancer"
+msgstr "Cancer"
+
+#: assets/js/editor.blocks.js:23
+msgid "Gemini"
+msgstr "Gemini"
+
+#: assets/js/editor.blocks.js:23
+msgid "Taurus"
+msgstr "Taurus"
+
+#: assets/js/editor.blocks.js:23
+msgid "Aries"
+msgstr "Aries"
+
+#: assets/js/editor.blocks.js:23
+msgid "Block Animation"
+msgstr "Анимация блока"
+
+#: assets/js/editor.blocks.js:23
+msgid "Block Height"
+msgstr "Высота блока"
+
+#: assets/js/editor.blocks.js:23
+msgid "Video autoplay"
+msgstr "Автовоспроизведение видео"
+
+#: assets/js/editor.blocks.js:23
+msgid "cover"
+msgstr "обложка"
+
+#: assets/js/editor.blocks.js:23
+msgid "image"
+msgstr "изображение"
+
+#: assets/js/editor.blocks.js:23
+msgid "Link an image or video with a text overlay."
+msgstr "Добавьте изображение или видео с наложением текста."
+
+#: assets/js/editor.blocks.js:23
+msgid "Banner"
+msgstr "Баннер"
+
+#: assets/js/editor.blocks.js:23
+msgid "Icon Link"
+msgstr "Ссылка иконки"
+
+#: assets/js/editor.blocks.js:23
+msgid "Border Size"
+msgstr "Размер границы"
+
+#: assets/js/editor.blocks.js:23
+msgid "Space Around Icon"
+msgstr "Расстояние вокруг иконки"
+
+#: assets/js/editor.blocks.js:23
+msgid "Icon Vertical Alignment"
+msgstr "Выравнивание иконки по вертикали"
+
+#: assets/js/editor.blocks.js:23
+msgid "Icon Style"
+msgstr "Стиль иконки"
+
+#: assets/js/editor.blocks.js:23
+msgid "Align Icon Right"
+msgstr "Выровнять иконку справа"
+
+#: assets/js/editor.blocks.js:23
+msgid "Align Icon Left"
+msgstr "Выровнять иконку слева"
+
+#: assets/js/editor.blocks.js:23
+msgid "service"
+msgstr "сервис"
+
+#: assets/js/editor.blocks.js:23
+msgid "feature"
+msgstr "особенность"
+
+#: assets/js/editor.blocks.js:23
+msgid "Icon Box"
+msgstr "Иконка с текстом"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Icon Hover Animation"
+msgstr "Анимация иконки при наведении"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Link Rel"
+msgstr "Link Rel"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Open in New Tab"
+msgstr "Открыть в новой вкладке"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Link"
+msgstr "Ссылка"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Border Radius"
+msgstr "Скругление углов"
+
+#: assets/js/editor.blocks.js:6
+msgid "Border Width"
+msgstr "Толщина границы"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Icon Size"
+msgstr "Размер иконки"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Colors"
+msgstr "Цвета"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Outline"
+msgstr "Контур"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Layout"
+msgstr "Разметка"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Icon"
+msgstr "Иконка"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Dots"
+msgstr "Точки"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Inside"
+msgstr "Внутри"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Ouside"
+msgstr "Снаружи"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Arrows"
+msgstr "Стрелки"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Controls Settings"
+msgstr "Настройки управления"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Spacing"
+msgstr "Интервал"
+
+#: assets/js/editor.blocks.js:6
+msgid "Variable Width"
+msgstr "Переменная ширина"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Center Mode"
+msgstr "По центру"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Infinite"
+msgstr "Бесконечно"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Slides to Scroll"
+msgstr "Слайды для прокрутки"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Slides on Mobile"
+msgstr "Слайды на телефоне"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Slides on Tablet"
+msgstr "Слайды на планшете"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Slides on Laptop"
+msgstr "Слайды на ноутбуке"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Slides on Desktop"
+msgstr "Слайды на компьютере"
+
+#: assets/js/editor.blocks.js:6
+msgid "Image Alignment"
+msgstr "Выравнивание изображения"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Media File"
+msgstr "Медиафайл"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Attachment Page"
+msgstr "Страница вложения"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Link to"
+msgstr "Ссылка на"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Crop Images"
+msgstr "Обрезать изображения"
+
+#: assets/js/editor.blocks.js:6
+msgid "Image Settings"
+msgstr "Настройки изображения"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Upload an image"
+msgstr "Загрузить изображение"
+
+#: assets/js/editor.blocks.js:6
+msgid "Edit Slider"
+msgstr "Редактировать слайдер"
+
+#: assets/js/editor.blocks.js:6
+msgid "Image Slider"
+msgstr "Слайдер изображений"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Edit Media"
+msgstr "Изменить медиафайл"
+
+#: assets/js/editor.blocks.js:6
+msgid "Replace Image"
+msgstr "Заменить изображение"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Write text…"
+msgstr "Введите текст…"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Write heading…"
+msgstr "Введите заголовок…"
+
+#: assets/js/editor.blocks.js:6
+msgid "Very Slow"
+msgstr "Очень медленно"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Text Animation"
+msgstr "Анимация текста"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Slideshow Speed"
+msgstr "Скорость слайдшоу"
+
+#: assets/js/editor.blocks.js:6
+msgid "Pause On Hover"
+msgstr "Пауза при наведении"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Enable Slideshow"
+msgstr "Включить слайдшоу"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Overlay Opacity"
+msgstr "Прозрачность наложения"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Overlay Color"
+msgstr "Цвет наложения"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Slider Height"
+msgstr "Высота слайдера"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "For images from Media Library only."
+msgstr "Только для изображений из медиабиблиотеки."
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: assets/js/editor.blocks.js:6
+msgid "Number of slides"
+msgstr "Количество слайдов"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Settings"
+msgstr "Настройки"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide %d"
+msgstr "Слайд %d"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "photo"
+msgstr "фотография"
+
+#: assets/js/editor.blocks.js:6
+msgid "carousel"
+msgstr "карусель"
+
+#: assets/js/editor.blocks.js:6
+msgid "gallery"
+msgstr "галерея"
+
+#: assets/js/editor.blocks.js:6
+msgid "Media & Text Slider"
+msgstr "Слайдер медиа и текста"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Margin Right"
+msgstr "Правое поле"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Margin Left"
+msgstr "Левое поле"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Margin Bottom"
+msgstr "Нижнее поле"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Margin Top"
+msgstr "Верхнее поле"
+
+#: assets/js/editor.blocks.js:6
+msgid "Padding Right"
+msgstr "Правый отсутп"
+
+#: assets/js/editor.blocks.js:6
+msgid "Padding Left"
+msgstr "Левый отступ"
+
+#: assets/js/editor.blocks.js:6
+msgid "Padding Bottom"
+msgstr "Нижний отступ"
+
+#: assets/js/editor.blocks.js:6
+msgid "Padding Top"
+msgstr "Верхний отступ"
+
+#: assets/js/editor.blocks.js:6
+msgid "Delay, ms"
+msgstr "Задержка, мс"
+
+#: assets/js/editor.blocks.js:6
+msgid "Very Fast"
+msgstr "Очень быстро"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fast"
+msgstr "Быстро"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slow"
+msgstr "Медленно"
+
+#: assets/js/editor.blocks.js:6
+msgid "Duration"
+msgstr "Длительность"
+
+#: assets/js/editor.blocks.js:6
+msgid "Entrance Animation"
+msgstr "Анимация при появлении"
+
+#: assets/js/editor.blocks.js:6
+msgid "Image"
+msgstr "Изображение"
+
+#: assets/js/editor.blocks.js:6
+msgid "Foreground Image"
+msgstr "Изображение переднего фона"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Foreground Gradient"
+msgstr "Градиент переднего фона"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Foreground Color"
+msgstr "Цвет переднего фона"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Luminosity"
+msgstr "Яркость"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Color"
+msgstr "Цвет"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Saturation"
+msgstr "Насыщенность"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Hue"
+msgstr "Тон"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Exclusion"
+msgstr "Исключение"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Difference"
+msgstr "Разница"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Soft Light"
+msgstr "Рассеянный свет"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Hard Light"
+msgstr "Контрастное освещение"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Color Burn"
+msgstr "Затемнение основы"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Color Dodge"
+msgstr "Осветление основы"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Lighten"
+msgstr "Осветлить"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Darken"
+msgstr "Затемнить"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Overlay"
+msgstr "Наложение"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Screen"
+msgstr "Осветление"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Multiply"
+msgstr "Многослойность"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Blend Mode"
+msgstr "Режим наложения"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Foreground Layer Opacity"
+msgstr "Прозрачность переднего фона"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Foreground"
+msgstr "Передний фон"
+
+#: assets/js/editor.blocks.js:6
+msgid "Controls Position"
+msgstr "Расположение элементов управления"
+
+#: assets/js/editor.blocks.js:6
+msgid "Remove Poster"
+msgstr "Удалить постер"
+
+#: assets/js/editor.blocks.js:6
+msgid "Replace Poster"
+msgstr "Заменить постер"
+
+#: assets/js/editor.blocks.js:6
+msgid "Select Poster"
+msgstr "Выбрать постер"
+
+#: assets/js/editor.blocks.js:6
+msgid "Poster Image"
+msgstr "Изображение постера"
+
+#: assets/js/editor.blocks.js:6
+msgid "Autoplay"
+msgstr "Автовоспроизведение"
+
+#: assets/js/editor.blocks.js:6
+msgid "Enable this option to increase the chances for autoplay to succeed."
+msgstr "Включите эту опцию, чтобы увеличить шансы автовоспроизведения."
+
+#: assets/js/editor.blocks.js:6
+msgid "Mute"
+msgstr "Без звука"
+
+#: assets/js/editor.blocks.js:6
+msgid "Select Video"
+msgstr "Выбрать видео"
+
+#: assets/js/editor.blocks.js:6
+msgid "Background Video"
+msgstr "Видео в фоне"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Animation Speed"
+msgstr "Скорость анимации"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Animation Duration"
+msgstr "Длительность анимации"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Fade"
+msgstr "Растворение"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Slide"
+msgstr "Скольжение"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Animation Effect"
+msgstr "Эффект анимации"
+
+#: assets/js/editor.blocks.js:6
+msgid "Select Images"
+msgstr "Выбрать изображения"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Перетащите изображения, загрузите новые или выберите имеющиеся из медиатеки."
+
+#: assets/js/editor.blocks.js:6
+msgid "Slider"
+msgstr "Слайдер"
+
+#: assets/js/editor.blocks.js:6
+msgid "Background Slider"
+msgstr "Слайдер фона"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Right"
+msgstr "Справа"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Center"
+msgstr "По центру"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Left"
+msgstr "Слева"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Horizontal Alignment"
+msgstr "Горизонтальное выравнивание"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Middle"
+msgstr "Посредине"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Vertical Alignment"
+msgstr "Вертикальное выравнивание"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Huge"
+msgstr "Огромный"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Large"
+msgstr "Большой"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Normal"
+msgstr "Обычный"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Medium"
+msgstr "Средний"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Small"
+msgstr "Маленький"
+
+#: assets/js/editor.blocks.js:6
+msgid "Inner Blocks Gap"
+msgstr "Внутренний отступ блоков"
+
+#: assets/js/editor.blocks.js:6
+msgid "Reset height on mobile"
+msgstr "Сбросить высоту на телефоне"
+
+#: assets/js/editor.blocks.js:6
+msgid "Reset height on tablet"
+msgstr "Сбросить высоту на планшете"
+
+#: assets/js/editor.blocks.js:6
+msgid "Section Height"
+msgstr "Высота секции"
+
+#: assets/js/editor.blocks.js:6
+msgid "Writing Settings"
+msgstr "Настройки публикации"
+
+#: assets/js/editor.blocks.js:6
+msgid "Set the default width of the content area in Writing Settings."
+msgstr "Установите ширину области содержимого по умолчанию в Настройках публикации."
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: assets/js/editor.blocks.js:6
+msgid "Full Width"
+msgstr "Во всю ширину"
+
+#: assets/js/editor.blocks.js:6
+msgid "Boxed"
+msgstr "Блоком"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Content Width"
+msgstr "Ширина содержимого"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Bottom"
+msgstr "Снизу"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Top"
+msgstr "Сверху"
+
+#: assets/js/editor.blocks.js:6
+msgid "Divider Color"
+msgstr "Цвет разделителя"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bring dividers to top"
+msgstr "Переместить разделители вверх"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bottom Divider Height"
+msgstr "Высота нижнего разделителя"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bottom Divider"
+msgstr "Нижний разделитель"
+
+#: assets/js/editor.blocks.js:6
+msgid "Top Divider Height"
+msgstr "Высота верхнего разделителя"
+
+#: assets/js/editor.blocks.js:6
+msgid "Top Divider"
+msgstr "Верхний разделитель"
+
+#: assets/js/editor.blocks.js:6
+msgid "Dividers"
+msgstr "Разделители"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zigzag Pattern"
+msgstr "Узор зигзаг"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zigzag Negative"
+msgstr "Перевернутый зигзаг"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zigzag"
+msgstr "Зигзаг"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve Layered 4"
+msgstr "Многослойная кривая 4"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve Layered 3"
+msgstr "Многослойная кривая 3"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve Layered 2"
+msgstr "Многослойная кривая 2"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve Layered 1"
+msgstr "Многослойная кривая 1"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve 8"
+msgstr "Кривая 8"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve 7"
+msgstr "Кривая 7"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve 6"
+msgstr "Кривая 6"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve 5"
+msgstr "Кривая 5"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve 4"
+msgstr "Кривая 4"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve 3"
+msgstr "Кривая 3"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve 2"
+msgstr "Кривая 2"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve 1"
+msgstr "Кривая 1"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve Negative"
+msgstr "Перевернутая кривая"
+
+#: assets/js/editor.blocks.js:6
+msgid "Curve"
+msgstr "Кривая"
+
+#: assets/js/editor.blocks.js:6
+msgid "Pyramids Layered"
+msgstr "Многослойные пирамиды"
+
+#: assets/js/editor.blocks.js:6
+msgid "Pyramids Rounded Negative"
+msgstr "Перевернутые закругленные пирамиды"
+
+#: assets/js/editor.blocks.js:6
+msgid "Pyramids Rounded"
+msgstr "Закругленные пирамиды"
+
+#: assets/js/editor.blocks.js:6
+msgid "Pyramids Negative"
+msgstr "Перевернутые пирамиды"
+
+#: assets/js/editor.blocks.js:6
+msgid "Pyramids"
+msgstr "Пирамиды"
+
+#: assets/js/editor.blocks.js:6
+msgid "Tilted Drips Negative"
+msgstr "Перевернутые потёки под наклоном"
+
+#: assets/js/editor.blocks.js:6
+msgid "Tilted Drips"
+msgstr "Потёки под наклоном"
+
+#: assets/js/editor.blocks.js:6
+msgid "Drops Negative"
+msgstr "Перевернутые капли"
+
+#: assets/js/editor.blocks.js:6
+msgid "Drops"
+msgstr "Капли"
+
+#: assets/js/editor.blocks.js:6
+msgid "Drips Negative"
+msgstr "Перевернутые потёки"
+
+#: assets/js/editor.blocks.js:6
+msgid "Drips"
+msgstr "Потёки"
+
+#: assets/js/editor.blocks.js:6
+msgid "Waves Pattern"
+msgstr "Узор волн"
+
+#: assets/js/editor.blocks.js:6
+msgid "Waves Multi-Layered"
+msgstr "Многослойные волны"
+
+#: assets/js/editor.blocks.js:6
+msgid "Waves Layered"
+msgstr "Слоистые волны"
+
+#: assets/js/editor.blocks.js:6
+msgid "Waves Large Negative"
+msgstr "Большие перевернутые волны"
+
+#: assets/js/editor.blocks.js:6
+msgid "Waves Large"
+msgstr "Большие волны"
+
+#: assets/js/editor.blocks.js:6
+msgid "Waves Light"
+msgstr "Легкие волны"
+
+#: assets/js/editor.blocks.js:6
+msgid "Waves"
+msgstr "Волны"
+
+#: assets/js/editor.blocks.js:6
+msgid "Triangle Layered Asymmetrical"
+msgstr "Асимметричный слоистый треугольник"
+
+#: assets/js/editor.blocks.js:6
+msgid "Triangle Asymmetrical Negative"
+msgstr "Асимметричный перевернутый треугольник"
+
+#: assets/js/editor.blocks.js:6
+msgid "Triangle Asymmetrical"
+msgstr "Асимметричный треугольник"
+
+#: assets/js/editor.blocks.js:6
+msgid "Triangle Negative"
+msgstr "Перевернутый треугольник"
+
+#: assets/js/editor.blocks.js:6
+msgid "Triangle"
+msgstr "Треугольник"
+
+#: assets/js/editor.blocks.js:6
+msgid "Triangle Rounded Asymmetrical Negative"
+msgstr "Закругленный асимметричный перевернутый треугольник"
+
+#: assets/js/editor.blocks.js:6
+msgid "Triangle Rounded Asymmetrical"
+msgstr "Закругленный асимметричный треугольник"
+
+#: assets/js/editor.blocks.js:6
+msgid "Triangle Rounded Negative"
+msgstr "Закругленный перевернутый треугольник"
+
+#: assets/js/editor.blocks.js:6
+msgid "Triangle Rounded"
+msgstr "Закругленный треугольник"
+
+#: assets/js/editor.blocks.js:6
+msgid "Arrow Negative"
+msgstr "Перевернутая стрелка"
+
+#: assets/js/editor.blocks.js:6
+msgid "Arrow"
+msgstr "Стрелка"
+
+#: assets/js/editor.blocks.js:6
+msgid "Book Negative"
+msgstr "Перевёрнутая книга"
+
+#: assets/js/editor.blocks.js:6
+msgid "Book"
+msgstr "Книга"
+
+#: assets/js/editor.blocks.js:6
+msgid "Clouds Negative"
+msgstr "Перевернутые облака"
+
+#: assets/js/editor.blocks.js:6
+msgid "Clouds"
+msgstr "Облака"
+
+#: assets/js/editor.blocks.js:6
+msgid "Split Negative"
+msgstr "Перевернутое расщепление"
+
+#: assets/js/editor.blocks.js:6
+msgid "Split"
+msgstr "Расщепление"
+
+#: assets/js/editor.blocks.js:6
+msgid "Tilt Layered 3"
+msgstr "Слоистый наклон 3"
+
+#: assets/js/editor.blocks.js:6
+msgid "Tilt Layered 2 "
+msgstr "Слоистый наклон 2 "
+
+#: assets/js/editor.blocks.js:6
+msgid "Tilt Layered 1"
+msgstr "Слоистый наклон 1"
+
+#: assets/js/editor.blocks.js:6
+msgid "Tilt Negative"
+msgstr "Перевернутый наклон"
+
+#: assets/js/editor.blocks.js:6
+msgid "Tilt"
+msgstr "Наклон"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Angle"
+msgstr "Угол"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Second Color Location"
+msgstr "Расположение второго цвета"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "First Color Location"
+msgstr "Расположение первого цвета"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Second Color"
+msgstr "Второй цвет"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "First Color"
+msgstr "Первый цвет"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Gradient Colors"
+msgstr "Цвет градиента"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Reset"
+msgstr "Сбросить"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Radial"
+msgstr "Радиальный"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Linear"
+msgstr "Линейный"
+
+#: assets/js/editor.blocks.js:6
+msgid "Background Gradient"
+msgstr "Градиент фона"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: assets/js/editor.blocks.js:6
+msgid "Contain"
+msgstr "Масштабировать"
+
+#: assets/js/editor.blocks.js:6
+msgid "Cover"
+msgstr "Заполнить"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Size"
+msgstr "Размер"
+
+#: assets/js/editor.blocks.js:6
+msgid "Round"
+msgstr "Круглый"
+
+#: assets/js/editor.blocks.js:6
+msgid "Space"
+msgstr "Пробел"
+
+#: assets/js/editor.blocks.js:6
+msgid "Repeat Y"
+msgstr "Повторить вертикально"
+
+#: assets/js/editor.blocks.js:6
+msgid "Repeat X"
+msgstr "Повторить горизонтально"
+
+#: assets/js/editor.blocks.js:6
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: assets/js/editor.blocks.js:6
+msgid "Repeat"
+msgstr "Повторить"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fixed"
+msgstr "Фиксированное"
+
+#: assets/js/editor.blocks.js:6
+msgid "Scroll"
+msgstr "Прокручивать"
+
+#: assets/js/editor.blocks.js:6
+msgid "Attachment"
+msgstr "Привязка"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bottom Right"
+msgstr "Внизу справа"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bottom Center"
+msgstr "Внизу по центру"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bottom Left"
+msgstr "Внизу слева"
+
+#: assets/js/editor.blocks.js:6
+msgid "Center Right"
+msgstr "По центру справа"
+
+#: assets/js/editor.blocks.js:6
+msgid "Center Center"
+msgstr "По центру"
+
+#: assets/js/editor.blocks.js:6
+msgid "Center Left "
+msgstr "По центру слева "
+
+#: assets/js/editor.blocks.js:6
+msgid "Top Right"
+msgstr "Вверху справа"
+
+#: assets/js/editor.blocks.js:6
+msgid "Top Center"
+msgstr "Вверху по центру"
+
+#: assets/js/editor.blocks.js:6
+msgid "Top Left"
+msgstr "Вверху слева"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Default"
+msgstr "По умолчанию"
+
+#: assets/js/editor.blocks.js:6
+msgid "Position"
+msgstr "Позиция"
+
+#: assets/js/editor.blocks.js:6
+msgid "Remove"
+msgstr "Удалить"
+
+#: assets/js/editor.blocks.js:6
+msgid "Select Image"
+msgstr "Выберите изображение"
+
+#: assets/js/editor.blocks.js:6
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Background"
+msgstr "Фон"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Margin"
+msgstr "Отступ снаружи"
+
+#: assets/js/editor.blocks.js:6
+msgid "Reset All"
+msgstr "Сбросить все"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Mobile"
+msgstr "Телефон"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Tablet"
+msgstr "Планшет"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Desktop"
+msgstr "Компьютер"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Padding"
+msgstr "Отступ внутри"
+
+#: assets/js/editor.blocks.js:6
+msgid "row"
+msgstr "строка"
+
+#: assets/js/editor.blocks.js:6
+msgid "wrapper"
+msgstr "декоратор"
+
+#: assets/js/editor.blocks.js:6
+msgid "container"
+msgstr "контейнер"
+
+#: assets/js/editor.blocks.js:6
+msgid "Section"
+msgstr "Секция"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zoom Big"
+msgstr "Zoom Big"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zoom Small"
+msgstr "Zoom Small"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide Right"
+msgstr "Slide Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide Left"
+msgstr "Slide Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide Bottom"
+msgstr "Slide Bottom"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide Top"
+msgstr "Slide Top"
+
+#: assets/js/editor.blocks.js:6
+msgid "Jack In The Box"
+msgstr "Jack In The Box"
+
+#: assets/js/editor.blocks.js:6
+msgid "Jello"
+msgstr "Jello"
+
+#: assets/js/editor.blocks.js:6
+msgid "Wobble"
+msgstr "Wobble"
+
+#: assets/js/editor.blocks.js:6
+msgid "Tada"
+msgstr "Tada"
+
+#: assets/js/editor.blocks.js:6
+msgid "Swing"
+msgstr "Swing"
+
+#: assets/js/editor.blocks.js:6
+msgid "Head Shake"
+msgstr "Head Shake"
+
+#: assets/js/editor.blocks.js:6
+msgid "Shake"
+msgstr "Shake"
+
+#: assets/js/editor.blocks.js:6
+msgid "Rubber Band"
+msgstr "Rubber Band"
+
+#: assets/js/editor.blocks.js:6
+msgid "Pulse"
+msgstr "Pulse"
+
+#: assets/js/editor.blocks.js:6
+msgid "Flash"
+msgstr "Flash"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce"
+msgstr "Bounce"
+
+#: assets/js/editor.blocks.js:6
+msgid "Roll Out"
+msgstr "Roll Out"
+
+#: assets/js/editor.blocks.js:6
+msgid "Hinge"
+msgstr "Hinge"
+
+#: assets/js/editor.blocks.js:6
+msgid "Heart Beat"
+msgstr "Heart Beat"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide Out Up"
+msgstr "Slide Out Up"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide Out Right"
+msgstr "Slide Out Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide Out Left"
+msgstr "Slide Out Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide Out Down"
+msgstr "Slide Out Down"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zoom Out Up"
+msgstr "Zoom Out Up"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zoom Out Right"
+msgstr "Zoom Out Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zoom Out Left"
+msgstr "Zoom Out Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zoom Out Down"
+msgstr "Zoom Out Down"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+#: assets/js/editor.blocks.js:6
+msgid "Rotate Out Up Right"
+msgstr "Rotate Out Up Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Rotate Out Up Left"
+msgstr "Rotate Out Up Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Rotate Out Down Right"
+msgstr "Rotate Out Down Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Rotate Out Down Left"
+msgstr "Rotate Out Down Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Rotate Out"
+msgstr "Rotate Out"
+
+#: assets/js/editor.blocks.js:6
+msgid "Light Speed Out"
+msgstr "Light Speed Out"
+
+#: assets/js/editor.blocks.js:6
+msgid "Flip Out Y"
+msgstr "Flip Out Y"
+
+#: assets/js/editor.blocks.js:6
+msgid "Flip Out X"
+msgstr "Flip Out X"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade Out Up Big"
+msgstr "Fade Out Up Big"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade Out Up"
+msgstr "Fade Out Up"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade Out Right Big"
+msgstr "Fade Out Right Big"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade Out Right"
+msgstr "Fade Out Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade Out Left Big"
+msgstr "Fade Out Left Big"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade Out Left"
+msgstr "Fade Out Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade Out Down Big"
+msgstr "Fade Out Down Big"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade Out Down"
+msgstr "Fade Out Down"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade Out"
+msgstr "Fade Out"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce Out Up"
+msgstr "Bounce Out Up"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce Out Right"
+msgstr "Bounce Out Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce Out Left"
+msgstr "Bounce Out Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce Out Down"
+msgstr "Bounce Out Down"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce Out"
+msgstr "Bounce Out"
+
+#: assets/js/editor.blocks.js:6
+msgid "Roll In"
+msgstr "Roll In"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide In Up Short"
+msgstr "Slide In Up Short"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide In Up"
+msgstr "Slide In Up"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide In Right Short"
+msgstr "Slide In Right Short"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide In Right"
+msgstr "Slide In Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide In Left Short"
+msgstr "Slide In Left Short"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide In Left"
+msgstr "Slide In Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide In Down Short"
+msgstr "Slide In Down Short"
+
+#: assets/js/editor.blocks.js:6
+msgid "Slide In Down"
+msgstr "Slide In Down"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zoom In Up"
+msgstr "Zoom In Up"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zoom In Right"
+msgstr "Zoom In Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zoom In Left"
+msgstr "Zoom In Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Zoom In Down"
+msgstr "Zoom In Down"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: assets/js/editor.blocks.js:6
+msgid "Rotate In Up Right"
+msgstr "Rotate In Up Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Rotate In Up Left"
+msgstr "Rotate In Up Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Rotate In Down Right"
+msgstr "Rotate In Down Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Rotate In Down Left"
+msgstr "Rotate In Down Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Rotate In"
+msgstr "Rotate In"
+
+#: assets/js/editor.blocks.js:6
+msgid "Light Speed In Short"
+msgstr "Light Speed In Short"
+
+#: assets/js/editor.blocks.js:6
+msgid "Light Speed In"
+msgstr "Light Speed In"
+
+#: assets/js/editor.blocks.js:6
+msgid "Flip In Y"
+msgstr "Flip In Y"
+
+#: assets/js/editor.blocks.js:6
+msgid "Flip In X"
+msgstr "Flip In X"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade In Up Big"
+msgstr "Fade In Up Big"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade In Up Short"
+msgstr "Fade In Up Short"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Fade In Up"
+msgstr "Fade In Up"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade In Right Big"
+msgstr "Fade In Right Big"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade In Right Short"
+msgstr "Fade In Right Short"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Fade In Right"
+msgstr "Fade In Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade In Left Big"
+msgstr "Fade In Left Big"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade In Left Short"
+msgstr "Fade In Left Short"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Fade In Left"
+msgstr "Fade In Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade In Down Big"
+msgstr "Fade In Down Big"
+
+#: assets/js/editor.blocks.js:6
+msgid "Fade In Down Short"
+msgstr "Fade In Down Short"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Fade In Down"
+msgstr "Fade In Down"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Fade In"
+msgstr "Fade In"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce In Up Short"
+msgstr "Bounce In Up Short"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce In Up"
+msgstr "Bounce In Up"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce In Right Short"
+msgstr "Bounce In Right Short"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce In Right"
+msgstr "Bounce In Right"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce In Left Short"
+msgstr "Bounce In Left Short"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce In Left"
+msgstr "Bounce In Left"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce In Down Short"
+msgstr "Bounce In Down Short"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce In Down"
+msgstr "Bounce In Down"
+
+#: assets/js/editor.blocks.js:6
+msgid "Bounce In"
+msgstr "Bounce In"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "None"
+msgstr "Нет"
+
+#: assets/js/editor.blocks.js:6 assets/js/editor.blocks.js:23
+msgid "Auto"
+msgstr "Автоматически"
+
+#: assets/js/editor.blocks.js:23
+msgid "Delete Marker"
+msgstr "Удалить маркер"
+
+#: assets/js/editor.blocks.js:23
+msgid "Edit Marker"
+msgstr "Редактировать маркер"
+
+#: assets/js/editor.blocks.js:23
+msgid "Drop Marker"
+msgstr "Динамический маркер"
+
+#: assets/js/editor.blocks.js:23
+msgid "Save API Key"
+msgstr "Сохранить ключ API"
+
+#: includes/writing-settings.php:76 assets/js/editor.blocks.js:23
+msgid "Google Maps API Key"
+msgstr "API ключ для Google Maps"
+
+#: assets/js/editor.blocks.js:23
+msgid "Get your key."
+msgstr "Получите свой ключ."
+
+#: assets/js/editor.blocks.js:23
+msgid "Google Maps API key."
+msgstr "Ключ API для Google Maps."
+
+#: includes/blocks-manager.php:35
+msgid "Getwid Blocks"
+msgstr "Блоки Getwid"
+
+#: includes/templates/recent-posts/post.php:91
+#: includes/templates/template-parts/post-comments.php:13
+msgid "No comments"
+msgstr "Комментариев нет"
+
+#: includes/templates/recent-posts/post.php:89
+#: includes/templates/template-parts/post-comments.php:11
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d комментарий"
+msgstr[1] "%d комментария"
+msgstr[2] "%d комментариев"
+
+#: includes/scripts-manager.php:238
+msgid "Full Size"
+msgstr "Полный размер"
+
+#: includes/writing-settings.php:97
+msgid "Default width of content area in the Section block. Leave empty to use the width set in your theme."
+msgstr "Ширина по умолчанию области содержимого в блоке Секция. Оставьте пустым, чтобы использовать ширину, установленную в вашей теме."
+
+#: includes/writing-settings.php:96
+msgctxt "pixels"
+msgid "px"
+msgstr "px"
+
+#: includes/writing-settings.php:64
+msgid "Section Content Width"
+msgstr "Ширина содержимого секции"
+
+#. Author URI of the plugin
+msgid "https://motopress.com/"
+msgstr "https://motopress.com/"
+
+#. Author of the plugin
+msgid "MotoPress"
+msgstr "MotoPress"
+
+#. Description of the plugin
+msgid "Extra Gutenberg blocks for building seamless and aesthetic websites in the WordPress block editor."
+msgstr "Дополнительные Gutenberg блоки для создания привлекательных веб-сайтов в WordPress редакторе блоков."
+
+#. Plugin Name of the plugin
+#: includes/writing-settings.php:58
+msgid "Getwid"
+msgstr "Getwid"
